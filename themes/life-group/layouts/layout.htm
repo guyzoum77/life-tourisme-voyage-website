@@ -1,0 +1,159 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Life Voyage - Modèle HTML d'Agence de Voyage et de Réservation de Circuits - Accueil Agence</title>
+    <meta name="author" content="Life Voyage">
+    <meta name="description" content="Life Voyage - Modèle HTML d'Agence de Voyage et de Réservation de Circuits ">
+    <meta name="keywords" content="Life Voyage - Modèle HTML d'Agence de Voyage et de Réservation de Circuits ">
+    <meta name="robots" content="INDEX,FOLLOW">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ 'assets/img/favicons/apple-icon-57x57.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ 'assets/img/favicons/apple-icon-60x60.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ 'assets/img/favicons/apple-icon-72x72.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ 'assets/img/favicons/apple-icon-76x76.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ 'assets/img/favicons/apple-icon-114x114.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ 'assets/img/favicons/apple-icon-120x120.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ 'assets/img/favicons/apple-icon-144x144.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ 'assets/img/favicons/apple-icon-152x152.png'  | theme }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/favicons/apple-icon-180x180.png'  | theme }}">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ 'assets/img/favicons/android-icon-192x192.png'  | theme }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/img/favicons/favicon-32x32.png'  | theme }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ 'assets/img/favicons/favicon-96x96.png'  | theme }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/img/favicons/favicon-16x16.png'  | theme }}">
+    <link rel="manifest" href="{{ 'assets/img/favicons/manifest.json'}} | theme ">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ 'assets/img/favicons/ms-icon-144x144.png'  | theme }}">
+    <meta name="theme-color" content="#ffffff">
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Manrope:wght@200..800&family=Montez&display=swap" rel="stylesheet">
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="{{'assets/css/bootstrap.min.css' | theme }}">
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="{{'assets/css/fontawesome.min.css' | theme }}">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="{{ 'assets/css/magnific-popup.min.css' | theme }}">
+
+    <!-- Swiper css -->
+    <link rel="stylesheet" href="{{ 'assets/css/swiper-bundle.min.css' | theme }}">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="{{ 'assets/css/style.css' | theme}}">
+
+</head>
+
+<body>
+
+<!--[if lte IE 9]>
+<p class="browserupgrade">Vous utilisez un navigateur <strong>obsolète</strong>. Veuillez <a href="https://browsehappy.com/">mettre à jour votre navigateur</a> pour améliorer votre expérience et votre sécurité.</p>
+<![endif]-->
+
+
+<div class="magic-cursor relative z-10">
+    <div class="cursor"></div>
+    <div class="cursor-follower"></div>
+</div>
+
+<div id="preloader" class="preloader ">
+    <div class="preloader-inner">
+        <img style="height:56px;width:auto;" src="{{ 'assets/img/life-voyage/loog.png' | theme }}" alt="Life Voyage">
+    </div>
+
+    <div id="loader" class="th-preloader">
+        <div class="animation-preloader">
+            <div class="txt-loading">
+                <span preloader-text="L" class="characters">L </span>
+
+                <span preloader-text="I" class="characters">I </span>
+
+                <span preloader-text="F" class="characters">F </span>
+
+                <span preloader-text="E" class="characters">E </span>
+
+                <span preloader-text="" class="characters"> </span>
+
+                <span preloader-text="V" class="characters">V </span>
+
+                <span preloader-text="O" class="characters">O </span>
+
+                <span preloader-text="Y" class="characters">Y </span>
+
+                <span preloader-text="A" class="characters">A </span>
+
+                <span preloader-text="G" class="characters">G </span>
+
+                <span preloader-text="E" class="characters">E </span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="page-wrapper">
+    {% partial 'header' %}
+
+    {% page %}
+
+    {% partial 'footer' %}
+</div>
+
+
+<!-- Scroll To Top -->
+<div class="scroll-top">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+        </path>
+    </svg>
+</div>
+
+<script src="{{ 'assets/js/vendor/jquery-3.6.0.min.js' | theme }}"></script>
+<!-- Swiper Js -->
+<script src="{{ 'assets/js/swiper-bundle.min.js' | theme }}"></script>
+<!-- Bootstrap -->
+<script src="{{ 'assets/js/bootstrap.min.js' | theme }}"></script>
+<!-- Magnific Popup -->
+<script src="{{ 'assets/js/jquery.magnific-popup.min.js' | theme }}"></script>
+<!-- Counter Up -->
+<script src="{{ 'assets/js/jquery.counterup.min.js' | theme }}"></script>
+<!-- Range Slider -->
+<script src="{{ 'assets/js/jquery-ui.min.js' | theme }}"></script>
+<!-- imagesloaded -->
+<script src="{{ 'assets/js/imagesloaded.pkgd.min.js' | theme }}"></script>
+<!-- isotope -->
+<script src="{{ 'assets/js/isotope.pkgd.min.js' | theme }}"></script>
+<!-- gsap -->
+<script src="{{ 'assets/js/gsap.min.js' | theme }}"></script>
+
+<!-- circle-progress -->
+<script src="{{ 'assets/js/circle-progress.js' | theme }}"></script>
+
+<script src="{{ 'assets/js/matter.min.js' | theme }}"></script>
+<script src="{{ 'assets/js/matterjs-custom.js' | theme }}"></script>
+
+
+<!-- nice select -->
+<script src="{{ 'assets/js/nice-select.min.js' | theme }}"></script>
+
+
+<!-- Main Js File -->
+<script src="{{ 'assets/js/main.js' | theme }}"></script>
+</body>
+
+</html>
