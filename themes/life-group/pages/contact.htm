@@ -1,0 +1,222 @@
+title = "Contactez-nous"
+url = "/contact"
+layout = "layout"
+is_hidden = 0
+==
+{% partial 'sidemenu' %}
+<!--==============================
+    Breadcumb
+============================== -->
+<div class="breadcumb-wrapper" data-bg-src="{{ 'assets/img/bg/breadcumb-bg.jpg'|theme }}">
+    <div class="container">
+        <div class="breadcumb-content">
+            <h1 class="breadcumb-title">Contactez-nous</h1>
+            <ul class="breadcumb-menu">
+                <li><a href="{{ 'accueil'|page }}">Accueil</a></li>
+                <li>Contactez-nous</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!--==============================
+    Coordonnées
+==============================-->
+<div class="space">
+    <div class="container">
+        <div class="title-area text-center">
+            <span class="sub-title">Nos coordonnées</span>
+            <h2 class="sec-title">Passez nous voir ou écrivez-nous</h2>
+        </div>
+        <div class="contact-panel">
+            <div class="contact-agency">
+                <span class="contact-agency_label">Notre agence</span>
+                <h3 class="contact-agency_title">Grand-Bassam, Mockeyville</h3>
+                <p class="contact-agency_address"><i class="fa-solid fa-location-dot"></i>Carrefour Femme Peulh 2, Côte d'Ivoire</p>
+                {# Horaires à valider par l'agence #}
+                <div class="contact-agency_hours">
+                    <span class="contact-agency_sub"><i class="fa-solid fa-clock"></i>Horaires d'ouverture</span>
+                    <ul>
+                        <li><span>Lundi – vendredi</span><strong>8 h – 18 h</strong></li>
+                        <li><span>Samedi</span><strong>9 h – 14 h</strong></li>
+                    </ul>
+                </div>
+                <div class="contact-agency_actions">
+                    <a href="https://www.google.com/maps/search/?api=1&query=Carrefour+Femme+Peulh+2+Mockeyville+Grand-Bassam" target="_blank" class="th-btn th-icon">Voir l'itinéraire</a>
+                    <a href="https://www.facebook.com/" target="_blank" class="contact-agency_social" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                </div>
+            </div>
+            <div class="contact-side">
+                <div class="contact-tiles">
+                    <div class="contact-tile is-whatsapp">
+                        <i class="fab fa-whatsapp contact-tile_bg" aria-hidden="true"></i>
+                        <div class="contact-tile_head">
+                            <span class="contact-tile_icon"><i class="fab fa-whatsapp"></i></span>
+                            <span class="contact-tile_badge"><i class="fa-solid fa-bolt"></i>Réponse rapide</span>
+                        </div>
+                        <span class="contact-tile_label">WhatsApp principal</span>
+                        <div class="contact-tile_value-row">
+                            <span class="contact-tile_value">+225 07 57 39 74 23</span>
+                            <button type="button" class="contact-tile_copy" data-copy="+225 07 57 39 74 23" title="Copier" aria-label="Copier whatsapp principal"><i class="fa-regular fa-copy"></i></button>
+                        </div>
+                        <p class="contact-tile_desc">Le moyen le plus rapide pour échanger avec un conseiller et envoyer vos documents.</p>
+                        <a href="https://wa.me/2250757397423" target="_blank" class="contact-tile_cta">Écrire sur WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                    <div class="contact-tile is-whatsapp">
+                        <i class="fab fa-whatsapp contact-tile_bg" aria-hidden="true"></i>
+                        <div class="contact-tile_head">
+                            <span class="contact-tile_icon"><i class="fab fa-whatsapp"></i></span>
+                            <span class="contact-tile_badge"><i class="fa-solid fa-reply"></i>Suivi de dossier</span>
+                        </div>
+                        <span class="contact-tile_label">WhatsApp secondaire</span>
+                        <div class="contact-tile_value-row">
+                            <span class="contact-tile_value">+225 07 89 15 28 12</span>
+                            <button type="button" class="contact-tile_copy" data-copy="+225 07 89 15 28 12" title="Copier" aria-label="Copier whatsapp secondaire"><i class="fa-regular fa-copy"></i></button>
+                        </div>
+                        <p class="contact-tile_desc">Une seconde ligne pour vos questions et le suivi de votre demande en cours.</p>
+                        <a href="https://wa.me/2250789152812" target="_blank" class="contact-tile_cta">Écrire sur WhatsApp<i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                    <div class="contact-tile">
+                        <i class="fa-solid fa-phone contact-tile_bg" aria-hidden="true"></i>
+                        <div class="contact-tile_head">
+                            <span class="contact-tile_icon"><i class="fa-solid fa-phone"></i></span>
+                            <span class="contact-tile_badge"><i class="fa-solid fa-clock"></i>Aux heures d'ouverture</span>
+                        </div>
+                        <span class="contact-tile_label">Téléphone fixe</span>
+                        <div class="contact-tile_value-row">
+                            <span class="contact-tile_value">+225 27 21 73 41 09</span>
+                            <button type="button" class="contact-tile_copy" data-copy="+225 27 21 73 41 09" title="Copier" aria-label="Copier téléphone fixe"><i class="fa-regular fa-copy"></i></button>
+                        </div>
+                        <p class="contact-tile_desc">Appelez directement l'agence pour un renseignement ou un rendez-vous.</p>
+                        <a href="tel:+2252721734109" class="contact-tile_cta">Appeler l'agence<i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                    <div class="contact-tile">
+                        <i class="fa-solid fa-envelope contact-tile_bg" aria-hidden="true"></i>
+                        <div class="contact-tile_head">
+                            <span class="contact-tile_icon"><i class="fa-solid fa-envelope"></i></span>
+                            <span class="contact-tile_badge"><i class="fa-solid fa-clock"></i>Réponse sous 24 h</span>
+                        </div>
+                        <span class="contact-tile_label">Email</span>
+                        <div class="contact-tile_value-row">
+                            <span class="contact-tile_value">info@lifevoyagestourisme.com</span>
+                            <button type="button" class="contact-tile_copy" data-copy="info@lifevoyagestourisme.com" title="Copier" aria-label="Copier email"><i class="fa-regular fa-copy"></i></button>
+                        </div>
+                        <p class="contact-tile_desc">Pour vos demandes détaillées, vos devis et l'envoi de pièces jointes.</p>
+                        <a href="mailto:info@lifevoyagestourisme.com" class="contact-tile_cta">Envoyer un email<i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--==============================
+    Formulaire (même bloc que l'accueil)
+==============================-->
+<div class="bg-top-center overflow-hidden" data-bg-src="{{ 'assets/img/bg/contact_bg_1.jpg'|theme }}">
+    <div class="container">
+        <div class="row gy-4 justify-content-between align-items-center">
+            <div class="col-lg-5">
+                <div class="pt-80 p-lg-0">
+                    <div class="title-area pe-xl-5">
+                        <span class="sub-title text-white">Demande de devis</span>
+                        <h2 class="sec-title text-white">Parlez-nous de votre projet</h2>
+                        <p class="contact-text text-white">Demandez votre visa, billet d'avion ou assurance voyage dès aujourd'hui ! Remplissez le formulaire : votre demande s'ouvre directement dans WhatsApp, prête à être envoyée.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="contact-form-area">
+                    <form action="#" method="POST" class="contact-form2" id="lv-contact-form">
+                        <div class="row">
+                            <div class="form-group col-12">
+                                <input type="text" class="form-control" name="nom" id="lv-nom" placeholder="Nom et prénom" required>
+                                <img src="{{ 'assets/img/icon/user.svg'|theme }}" alt="">
+                            </div>
+                            <div class="form-group col-12">
+                                <input type="tel" class="form-control" name="telephone" id="lv-tel" placeholder="Téléphone / WhatsApp" required>
+                                <img src="{{ 'assets/img/icon/call.svg'|theme }}" alt="">
+                            </div>
+                            <div class="form-group col-12">
+                                <input type="email" class="form-control" name="email" id="lv-email" placeholder="Votre email">
+                                <img src="{{ 'assets/img/icon/mail.svg'|theme }}" alt="">
+                            </div>
+                            <div class="form-group col-12">
+                                <select name="service" id="lv-service" class="form-select nice-select">
+                                    <option value="" selected disabled>Service concerné</option>
+                                    <option value="Accompagnement visa">Accompagnement visa</option>
+                                    <option value="Billetterie / vols">Billetterie / vols</option>
+                                    <option value="Tourisme">Tourisme national et international</option>
+                                    <option value="Véhicules">Vente et location de véhicules</option>
+                                    <option value="Hôtels & résidences">Hôtels et résidences meublées</option>
+                                    <option value="Assurance voyage">Assurance voyage</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-12">
+                                <textarea name="message" id="lv-message" cols="30" rows="3" class="form-control" placeholder="Votre message : destination, dates, nombre de voyageurs"></textarea>
+                                <img src="{{ 'assets/img/icon/chat.svg'|theme }}" alt="">
+                            </div>
+                        </div>
+                        <div class="form-btn-wrapp">
+                            <div class="form-btn">
+                                <button type="submit" class="th-btn white-btn">Envoyer ma demande <img src="{{ 'assets/img/icon/plane3.svg'|theme }}" alt=""></button>
+                            </div>
+                            <div class="contact-info">
+                                <p class="contact-info_link"><a href="tel:+2250757397423">+225 07 57 39 74 23</a></p>
+                                <div class="contact-info_icon">
+                                    <a href="tel:+2250757397423"><img src="{{ 'assets/img/icon/call.svg'|theme }}" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="form-messages mb-0 mt-3 text-white"></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--==============================
+    Carte
+==============================-->
+<div class="space">
+    <div class="container">
+        <div class="title-area text-center">
+            <span class="sub-title">Plan d'accès</span>
+            <h2 class="sec-title">Mockeyville, Grand-Bassam</h2>
+        </div>
+        <div class="contact-map">
+            <iframe src="https://www.google.com/maps?q=Mockeyville%2C%20Grand-Bassam%2C%20C%C3%B4te%20d%27Ivoire&output=embed" style="width:100%;height:450px;border:0;border-radius:30px" allowfullscreen="" loading="lazy" title="Life Voyages & Tourisme, Grand-Bassam"></iframe>
+        </div>
+    </div>
+</div>
+
+{# Envoi du formulaire vers WhatsApp (aucun serveur mail nécessaire) #}
+<script>
+document.querySelectorAll('.contact-tile_copy').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+        var done = function () {
+            btn.classList.add('is-copied');
+            btn.innerHTML = '<i class="fa-solid fa-check"></i>';
+            setTimeout(function () {
+                btn.classList.remove('is-copied');
+                btn.innerHTML = '<i class="fa-regular fa-copy"></i>';
+            }, 1600);
+        };
+        if (navigator.clipboard) {
+            navigator.clipboard.writeText(btn.dataset.copy).then(done);
+        }
+    });
+});
+document.getElementById('lv-contact-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var v = function (id) { var el = document.getElementById(id); return el && el.value ? el.value.trim() : ''; };
+    var lignes = ['Bonjour Life Voyages & Tourisme, voici ma demande :',
+        'Nom : ' + v('lv-nom'), 'Téléphone : ' + v('lv-tel')];
+    if (v('lv-email')) lignes.push('Email : ' + v('lv-email'));
+    if (v('lv-service')) lignes.push('Service : ' + v('lv-service'));
+    if (v('lv-message')) lignes.push('Message : ' + v('lv-message'));
+    window.open('https://wa.me/2250757397423?text=' + encodeURIComponent(lignes.join('\n')), '_blank');
+    this.querySelector('.form-messages').textContent = 'WhatsApp s\'ouvre avec votre demande : il ne reste qu\'à appuyer sur Envoyer.';
+});
+</script>

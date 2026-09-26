@@ -105,7 +105,7 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
         yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 57, $this->source);
         yield "\" alt=\"Life Voyage\"></a>
                 </div>
-                <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
+                <p class=\"about-text\">Votre partenaire de confiance pour tous vos voyages à travers le monde. Visa, billets d\x27avion, séjours, hôtels, véhicules et assurance : à Grand-Bassam, nous nous occupons de tout.</p>
                 <div class=\"th-social\">
                     <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
                     <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
@@ -126,24 +126,23 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
                     </div>
                     <div class=\"media-body\">
                         <div class=\"recent-post-meta\">
-                            <a href=\"blog.html\"><i class=\"far fa-calendar\"></i>24 Juin 2024</a>
+                            <a href=\"blog.html\"><i class=\"far fa-calendar\"></i>10 Septembre 2026</a>
                         </div>
-                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Quand la vision rencontre
-                            la réalité</a></h4>
+                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Visa Schengen : les documents à préparer</a></h4>
                     </div>
                 </div>
                 <div class=\"recent-post\">
                     <div class=\"media-img\">
                         <a href=\"#\"><img src=\"";
-        // line 85
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/recent-post-1-2.jpg"), 85, $this->source);
+        // line 84
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/recent-post-1-2.jpg"), 84, $this->source);
         yield "\" alt=\"Blog Image\"></a>
                     </div>
                     <div class=\"media-body\">
                         <div class=\"recent-post-meta\">
-                            <a href=\"#\"><i class=\"far fa-calendar\"></i>22 Juin 2024</a>
+                            <a href=\"#\"><i class=\"far fa-calendar\"></i>02 Septembre 2026</a>
                         </div>
-                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Placer la barre plus haut dans la construction.</a></h4>
+                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Étudier au Canada : les étapes du visa étudiant</a></h4>
                     </div>
                 </div>
             </div>
@@ -154,34 +153,34 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
                 <div class=\"info-box_text\">
                     <div class=\"icon\">
                         <img src=\"";
-        // line 101
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/phone.svg"), 101, $this->source);
+        // line 100
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/phone.svg"), 100, $this->source);
         yield "\" alt=\"img\">
                     </div>
                     <div class=\"details\">
-                        <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                        <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
+                        <p><a href=\"tel:+2250757397423\" class=\"info-box_link\">+225 07 57 39 74 23</a></p>
+                        <p><a href=\"tel:+2250789152812\" class=\"info-box_link\">+225 07 89 15 28 12</a></p>
                     </div>
                 </div>
                 <div class=\"info-box_text\">
                     <div class=\"icon\">
                         <img src=\"";
-        // line 110
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/envelope.svg"), 110, $this->source);
+        // line 109
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/envelope.svg"), 109, $this->source);
         yield "\" alt=\"img\">
                     </div>
                     <div class=\"details\">
-                        <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                        <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
+                        <p><a href=\"mailto:info@lifevoyagestourisme.com\" class=\"info-box_link\">info@lifevoyagestourisme.com</a></p>
+                        <p><a href=\"mailto:life.voyages.tourisme@gmail.com\" class=\"info-box_link\">life.voyages.tourisme@gmail.com</a></p>
                     </div>
                 </div>
                 <div class=\"info-box_text\">
                     <div class=\"icon\"><img src=\"";
-        // line 118
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/location-dot.svg"), 118, $this->source);
+        // line 117
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/location-dot.svg"), 117, $this->source);
         yield "\" alt=\"img\"></div>
                     <div class=\"details\">
-                        <p>789 Inner Lane, Holy park, California, USA</p>
+                        <p>Grand-Bassam, Mockeyville, Carrefour Femme Peulh 2</p>
                     </div>
                 </div>
             </div>
@@ -191,7 +190,7 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
 <div class=\"popup-search-box\">
     <button class=\"searchClose\"><i class=\"fal fa-times\"></i></button>
     <form action=\"#\">
-        <input type=\"text\" placeholder=\"Que recherchez-vous ?\">
+        <input type=\"text\" placeholder=\"Visa, billet d\x27avion, circuit…\">
         <button type=\"submit\"><i class=\"fal fa-search\"></i></button>
     </form>
 </div><!--==============================
@@ -202,8 +201,8 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
         <button class=\"th-menu-toggle\"><i class=\"fal fa-times\"></i></button>
         <div class=\"mobile-logo\">
             <a href=\"home-travel.html\"><img style=\"height:56px;width:auto;\" src=\"";
-        // line 140
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 140, $this->source);
+        // line 139
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 139, $this->source);
         yield "\" alt=\"Life Voyage\"></a>
         </div>
         <div class=\"th-mobile-menu\">
@@ -226,10 +225,32 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
                     </ul>
                 </li>
                 <li class=\"menu-item-has-children\">
-                    <a href=\"#\">Service</a>
+                    <a href=\"#\">Nos services</a>
                     <ul class=\"sub-menu\">
-                        <li><a href=\"service.html\">Services</a></li>
-                        <li><a href=\"service-details.html\">Détails du service</a></li>
+                        <li><a href=\"";
+        // line 163
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 163, $this->source);
+        yield "\">Accompagnement visa</a></li>
+                        <li><a href=\"";
+        // line 164
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 164, $this->source);
+        yield "\">Billetterie &amp; vols</a></li>
+                        <li><a href=\"";
+        // line 165
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 165, $this->source);
+        yield "\">Tourisme national &amp; international</a></li>
+                        <li><a href=\"";
+        // line 166
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 166, $this->source);
+        yield "\">Vente &amp; location de véhicules</a></li>
+                        <li><a href=\"";
+        // line 167
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("hotels-residences"), 167, $this->source);
+        yield "\">Hôtels &amp; résidences meublées</a></li>
+                        <li><a href=\"";
+        // line 168
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("assurance-voyage"), 168, $this->source);
+        yield "\">Assurance voyage</a></li>
                     </ul>
                 </li>
                 <li class=\"menu-item-has-children\">
@@ -281,11 +302,11 @@ class __TwigTemplate_ebb8bdc741c7d50e34161453dd586406 extends Template
 \tHeader Area
 ==============================-->
 ";
-        // line 216
+        // line 219
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 217
+        // line 220
         yield "<!--==============================
 Hero Area
 ==============================-->
@@ -298,19 +319,18 @@ Hero Area
             <div class=\"swiper-slide\">
                 <div class=\"hero-inner\">
                     <div class=\"th-hero-bg\" data-bg-src=\"";
-        // line 228
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_1.jpg"), 228, $this->source);
+        // line 231
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_1.jpg"), 231, $this->source);
         yield "\">
                     </div>
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Découvrez le monde avec notre guide
+                                Votre partenaire de confiance pour tous vos voyages
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Demander un visa</a>
                             </div>
                         </div>
                     </div>
@@ -319,19 +339,18 @@ Hero Area
             <div class=\"swiper-slide\">
                 <div class=\"hero-inner\">
                     <div class=\"th-hero-bg\" data-bg-src=\"";
-        // line 246
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_2.jpg"), 246, $this->source);
+        // line 248
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_2.jpg"), 248, $this->source);
         yield "\">
                     </div>
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Découvrez les meilleures destinations du monde
+                                Traitement rapide de vos dossiers visa
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Demander un visa</a>
                             </div>
                         </div>
                     </div>
@@ -340,19 +359,18 @@ Hero Area
             <div class=\"swiper-slide\">
                 <div class=\"hero-inner\">
                     <div class=\"th-hero-bg\" data-bg-src=\"";
-        // line 264
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_3.jpg"), 264, $this->source);
+        // line 265
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_3.jpg"), 265, $this->source);
         yield "\">
                     </div>
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Capturez les merveilles du monde
+                                Vos billets d\x27avion aux meilleurs tarifs
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Réserver un vol</a>
                             </div>
                         </div>
                     </div>
@@ -368,12 +386,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Explorez le monde avec Life Voyage
+                                Découvrez la Côte d\x27Ivoire et le monde
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Voir nos circuits</a>
                             </div>
                         </div>
                     </div>
@@ -383,19 +400,18 @@ Hero Area
                 <div class=\"hero-inner\">
                     <video autoplay loop muted>
                         <source src=\"";
-        // line 301
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero-video3.mp4"), 301, $this->source);
+        // line 300
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero-video3.mp4"), 300, $this->source);
         yield "\" type=\"video/mp4\">
                     </video>
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Vivez l\x27expérience du voyage avec Life Voyage
+                                Voyagez l\x27esprit tranquille avec Life Voyages
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Nous contacter</a>
                             </div>
                         </div>
                     </div>
@@ -411,14 +427,14 @@ Hero Area
                     <div class=\"hero3-swiper-custom\">
                         <button data-slider-prev=\"#heroSlide3\" class=\"swiper-button-next\">
                             <img src=\"";
-        // line 326
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/hero-arrow-right.svg"), 326, $this->source);
+        // line 324
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/hero-arrow-right.svg"), 324, $this->source);
         yield "\" alt=\"\"></button>
                         <div class=\"swiper-pagination\"></div>
                         <button data-slider-next=\"#heroSlide3\" class=\"swiper-button-prev\">
                             <img src=\"";
-        // line 329
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/hero-arrow-left.svg"), 329, $this->source);
+        // line 327
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/hero-arrow-left.svg"), 327, $this->source);
         yield "\" alt=\"\"></button>
 
                     </div>
@@ -429,8 +445,8 @@ Hero Area
                                     <div class=\"hero3-card\">
                                         <div class=\"hero-img\">
                                             <img src=\"";
-        // line 338
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_1.jpg"), 338, $this->source);
+        // line 336
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_1.jpg"), 336, $this->source);
         yield "\" alt=\"\">
                                         </div>
                                     </div>
@@ -441,8 +457,8 @@ Hero Area
                                     <div class=\"hero3-card\">
                                         <div class=\"hero-img\">
                                             <img src=\"";
-        // line 347
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_2.jpg"), 347, $this->source);
+        // line 345
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_2.jpg"), 345, $this->source);
         yield "\" alt=\"\">
                                         </div>
                                     </div>
@@ -453,8 +469,8 @@ Hero Area
                                     <div class=\"hero3-card\">
                                         <div class=\"hero-img\">
                                             <img src=\"";
-        // line 356
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_3.jpg"), 356, $this->source);
+        // line 354
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_3.jpg"), 354, $this->source);
         yield "\" alt=\"\">
                                         </div>
                                     </div>
@@ -465,8 +481,8 @@ Hero Area
                                     <div class=\"hero3-card\">
                                         <div class=\"hero-img\">
                                             <img src=\"";
-        // line 365
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_4.jpg"), 365, $this->source);
+        // line 363
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_4.jpg"), 363, $this->source);
         yield "\" alt=\"\">
                                         </div>
                                     </div>
@@ -477,8 +493,8 @@ Hero Area
                                     <div class=\"hero3-card\">
                                         <div class=\"hero-img\">
                                             <img src=\"";
-        // line 374
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_5.jpg"), 374, $this->source);
+        // line 372
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/hero/hero_bg_3_5.jpg"), 372, $this->source);
         yield "\" alt=\"\">
                                         </div>
                                     </div>
@@ -499,20 +515,16 @@ Hero Area
                                         <div class=\"search-input\">
                                             <label>Destination</label>
                                             <select class=\" nice-select\" name=\"Destination\" id=\"Destination\">
-                                                <option value=\"Sélectionner une destination\" selected disabled>Sélectionner une destination
-                                                </option>
-                                                <option value=\"Australie\">Australie</option>
+                                                <option value=\"Sélectionner une destination\" selected disabled>Sélectionner une destination</option>
+                                                <option value=\"France / Espace Schengen\">France / Espace Schengen</option>
+                                                <option value=\"Royaume-Uni\">Royaume-Uni</option>
+                                                <option value=\"Canada\">Canada</option>
+                                                <option value=\"États-Unis\">États-Unis</option>
                                                 <option value=\"Dubaï\">Dubaï</option>
-                                                <option value=\"Angleterre\">Angleterre</option>
-                                                <option value=\"Suède\">Suède</option>
-                                                <option value=\"Thaïlande\">Thaïlande</option>
-                                                <option value=\"Égypte\">Égypte</option>
-                                                <option value=\"Arabie Saoudite\">Arabie Saoudite</option>
-                                                <option value=\"Suisse\">Suisse</option>
-                                                <option value=\"Scandinavie\">Scandinavie</option>
-                                                <option value=\"Europe de l\x27Ouest\">Europe de l\x27Ouest</option>
-                                                <option value=\"Indonésie\">Indonésie</option>
-                                                <option class=\"Italie\">Italie</option>
+                                                <option value=\"Maroc\">Maroc</option>
+                                                <option value=\"Afrique\">Afrique</option>
+                                                <option value=\"Asie\">Asie</option>
+                                                <option value=\"Côte d\x27Ivoire\">Côte d\x27Ivoire</option>
                                             </select>
                                         </div>
                                     </div>
@@ -521,13 +533,15 @@ Hero Area
                                             <i class=\"fa-regular fa-person-hiking\"></i>
                                         </div>
                                         <div class=\"search-input\">
-                                            <label>Type</label>
+                                            <label>Service</label>
                                             <select class=\" nice-select\" name=\"type\" id=\"type\">
-                                                <option value=\"Aventure\" selected disabled>Aventure</option>
-                                                <option value=\"Plage\">Plage</option>
-                                                <option value=\"Circuit de groupe\">Circuit de groupe</option>
-                                                <option value=\"Circuit en couple\">Circuit en couple</option>
-                                                <option value=\"Circuit en famille\">Circuit en famille</option>
+                                                <option value=\"Service\" selected disabled>Choisir un service</option>
+                                                <option value=\"Visa\">Visa</option>
+                                                <option value=\"Billet d\x27avion\">Billet d\x27avion</option>
+                                                <option value=\"Circuit touristique\">Circuit touristique</option>
+                                                <option value=\"Hôtel / résidence\">Hôtel / résidence</option>
+                                                <option value=\"Location de véhicule\">Location de véhicule</option>
+                                                <option value=\"Assurance voyage\">Assurance voyage</option>
                                             </select>
                                         </div>
                                     </div>
@@ -536,24 +550,21 @@ Hero Area
                                             <i class=\"fa-light fa-clock\"></i>
                                         </div>
                                         <div class=\"search-input\">
-                                            <label>Durée</label>
+                                            <label>Départ prévu</label>
                                             <select class=\"form-select nice-select\" name=\"Durée\" id=\"Durée\">
-                                                <option value=\"Normal\" selected disabled>Durée</option>
-                                                <option value=\"1\">1 jour</option>
-                                                <option value=\"2\">2 jours</option>
-                                                <option value=\"3\">3 jours</option>
-                                                <option value=\"4\">4 jours</option>
-                                                <option value=\"5\">5 jours</option>
-                                                <option value=\"6\">6 jours</option>
-                                                <option value=\"7\">7 jours</option>
+                                                <option value=\"Normal\" selected disabled>Quand partez-vous ?</option>
+                                                <option value=\"1\">Dans moins d\x27un mois</option>
+                                                <option value=\"2\">Dans 1 à 3 mois</option>
+                                                <option value=\"3\">Dans 3 à 6 mois</option>
+                                                <option value=\"4\">Date non fixée</option>
                                             </select>
                                         </div>
                                     </div>
                                     <div class=\"form-btn col-md-6 col-xl-auto\">
                                         <button class=\"th-btn\"><img src=\"";
-        // line 445
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/search.svg"), 445, $this->source);
-        yield "\" alt=\"\">Rechercher</button>
+        // line 438
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/search.svg"), 438, $this->source);
+        yield "\" alt=\"\">Demander un devis</button>
                                     </div>
                                 </div>
                                 <p class=\"form-messages mb-0 mt-3\"></p>
@@ -566,8 +577,8 @@ Hero Area
     </div>
     <div class=\"scroll-down\">
         <a href=\"#destination-sec\" class=\"scroll-wrap\"><span><img src=\"";
-        // line 457
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/down-arrow.svg"), 457, $this->source);
+        // line 450
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/down-arrow.svg"), 450, $this->source);
         yield "\" alt=\"\"></span> Défiler
             vers le bas</a>
     </div>
@@ -577,21 +588,20 @@ Destination Area
 ==============================-->
 
 <section class=\"position-relative overflow-hidden space\" id=\"destination-sec\" data-bg-src=\"";
-        // line 465
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/bg/line-pattern3.png"), 465, $this->source);
+        // line 458
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/bg/line-pattern3.png"), 458, $this->source);
         yield "\">
     <div class=\"container\">
         <div class=\"row justify-content-between\">
             <div class=\"col-lg-6\">
                 <div class=\"title-area\">
-                    <span class=\"sub-title\">Destination Populaire</span>
-                    <h2 class=\"sec-title\">Destinations Populaires</h2>
+                    <span class=\"sub-title\">Nos destinations visa</span>
+                    <h2 class=\"sec-title\">Où souhaitez-vous partir ?</h2>
                 </div>
             </div>
             <div class=\"col-lg-5\">
-                <h2 class=\"destination-title\"><span class=\"counter-number\">850</span>+ Destinations</h2>
-                <p class=\"sec-text mb-30\">Life Voyage est l\x27une des compagnies de voyage les plus appréciées par ceux qui souhaitent
-                    vivre l\x27aventure et découvrir le monde.</p>
+                <h2 class=\"destination-title\"><span class=\"counter-number\">6</span>+ destinations visa</h2>
+                <p class=\"sec-text mb-30\">Life Voyages &amp; Tourisme vous accompagne dans la constitution de votre dossier visa pour les destinations les plus demandées, avec un traitement rapide et un suivi personnalisé.</p>
 
             </div>
         </div>
@@ -602,14 +612,78 @@ Destination Area
                         <div class=\"destination-item th-ani\">
                             <div class=\"destination-item_img global-img\">
                                 <img src=\"";
-        // line 487
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_1.jpg"), 487, $this->source);
+        // line 479
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_1.jpg"), 479, $this->source);
+        yield "\" alt=\"image\">
+                            </div>
+                            <div class=\"destination-content\">
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">France / Espace Schengen</a></h3>
+                                <p class=\"destination-text\">Tourisme, études, affaires</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class=\"swiper-slide\">
+                        <div class=\"destination-item th-ani\">
+                            <div class=\"destination-item_img global-img\">
+                                <img src=\"";
+        // line 492
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_2.jpg"), 492, $this->source);
+        yield "\" alt=\"image\">
+                            </div>
+                            <div class=\"destination-content\">
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Canada</a></h3>
+                                <p class=\"destination-text\">Visa visiteur et études</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class=\"swiper-slide\">
+                        <div class=\"destination-item th-ani\">
+                            <div class=\"destination-item_img global-img\">
+                                <img src=\"";
+        // line 505
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_3.jpg"), 505, $this->source);
+        yield "\" alt=\"image\">
+                            </div>
+                            <div class=\"destination-content\">
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Royaume-Uni</a></h3>
+                                <p class=\"destination-text\">Visa visiteur</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class=\"swiper-slide\">
+                        <div class=\"destination-item th-ani\">
+                            <div class=\"destination-item_img global-img\">
+                                <img src=\"";
+        // line 518
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_4.jpg"), 518, $this->source);
+        yield "\" alt=\"image\">
+                            </div>
+                            <div class=\"destination-content\">
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">États-Unis</a></h3>
+                                <p class=\"destination-text\">Visa touristique et études</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class=\"swiper-slide\">
+                        <div class=\"destination-item th-ani\">
+                            <div class=\"destination-item_img global-img\">
+                                <img src=\"";
+        // line 531
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_1.jpg"), 531, $this->source);
         yield "\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
                                 <h3 class=\"box-title\"><a href=\"destination-details.html\">Dubaï, ÉAU</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <p class=\"destination-text\">Visa touristique rapide</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -618,78 +692,14 @@ Destination Area
                         <div class=\"destination-item th-ani\">
                             <div class=\"destination-item_img global-img\">
                                 <img src=\"";
-        // line 500
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_2.jpg"), 500, $this->source);
+        // line 544
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_2.jpg"), 544, $this->source);
         yield "\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Japon</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class=\"swiper-slide\">
-                        <div class=\"destination-item th-ani\">
-                            <div class=\"destination-item_img global-img\">
-                                <img src=\"";
-        // line 513
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_3.jpg"), 513, $this->source);
-        yield "\" alt=\"image\">
-                            </div>
-                            <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Suisse</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class=\"swiper-slide\">
-                        <div class=\"destination-item th-ani\">
-                            <div class=\"destination-item_img global-img\">
-                                <img src=\"";
-        // line 526
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_4.jpg"), 526, $this->source);
-        yield "\" alt=\"image\">
-                            </div>
-                            <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Brésil</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class=\"swiper-slide\">
-                        <div class=\"destination-item th-ani\">
-                            <div class=\"destination-item_img global-img\">
-                                <img src=\"";
-        // line 539
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_1.jpg"), 539, $this->source);
-        yield "\" alt=\"image\">
-                            </div>
-                            <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Dubaï, ÉAU</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class=\"swiper-slide\">
-                        <div class=\"destination-item th-ani\">
-                            <div class=\"destination-item_img global-img\">
-                                <img src=\"";
-        // line 552
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/destination/destination_3_2.jpg"), 552, $this->source);
-        yield "\" alt=\"image\">
-                            </div>
-                            <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Japon</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Afrique &amp; Asie</a></h3>
+                                <p class=\"destination-text\">Maroc, Chine, Turquie…</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -698,20 +708,20 @@ Destination Area
             </div>
         </div>
         <div class=\"destination-btn text-center mt-60\">
-            <a href=\"#\" class=\"th-btn style3 th-icon\">Voir tout</a>
+            <a href=\"#\" class=\"th-btn style3 th-icon\">Voir tous nos services</a>
         </div>
     </div>
 </section><!--==============================
 Category Area
 ==============================-->
 <section class=\"category-area3 bg-smoke space\" data-bg-src=\"";
-        // line 572
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/bg/line-pattern3.png"), 572, $this->source);
+        // line 564
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/bg/line-pattern3.png"), 564, $this->source);
         yield "\">
     <div class=\"container th-container\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Un endroit merveilleux pour vous</span>
-            <h2 class=\"sec-title\">Catégories de circuits</h2>
+            <span class=\"sub-title\">Nos prestations</span>
+            <h2 class=\"sec-title\">Tout pour votre voyage, au même endroit</h2>
         </div>
         <div class=\"slider-area\">
             <div class=\"swiper th-slider has-shadow category-slider3\" id=\"categorySlider3\" data-slider-options=\x27{\"breakpoints\":{\"0\":{\"slidesPerView\":1},\"576\":{\"slidesPerView\":\"1\"},\"768\":{\"slidesPerView\":\"2\"},\"992\":{\"slidesPerView\":\"3\"},\"1200\":{\"slidesPerView\":\"3\"},\"1400\":{\"slidesPerView\":\"5\"}}}\x27>
@@ -720,12 +730,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 584
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_1.jpg"), 584, $this->source);
+        // line 576
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_1.jpg"), 576, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Croisières</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 578
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 578, $this->source);
+        yield "\">Accompagnement visa</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 579
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 579, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -733,12 +749,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 594
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_2.jpg"), 594, $this->source);
+        // line 586
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_2.jpg"), 586, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Randonnée</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 588
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 588, $this->source);
+        yield "\">Billetterie &amp; vols</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 589
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 589, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -746,12 +768,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 604
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_3.jpg"), 604, $this->source);
+        // line 596
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_3.jpg"), 596, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Airbirds</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 598
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 598, $this->source);
+        yield "\">Tourisme national &amp; international</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 599
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 599, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -759,12 +787,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 614
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_4.jpg"), 614, $this->source);
+        // line 606
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_4.jpg"), 606, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Faune sauvage</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 608
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 608, $this->source);
+        yield "\">Vente &amp; location de véhicules</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 609
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 609, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -772,12 +806,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 624
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_5.jpg"), 624, $this->source);
+        // line 616
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_5.jpg"), 616, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Marche</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 618
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("hotels-residences"), 618, $this->source);
+        yield "\">Hôtels &amp; résidences meublées</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 619
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("hotels-residences"), 619, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -785,12 +825,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 634
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_1.jpg"), 634, $this->source);
+        // line 626
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_1.jpg"), 626, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Croisières</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 628
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("assurance-voyage"), 628, $this->source);
+        yield "\">Assurance voyage</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 629
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("assurance-voyage"), 629, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -798,12 +844,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 644
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_2.jpg"), 644, $this->source);
+        // line 636
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_2.jpg"), 636, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Randonnée</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 638
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 638, $this->source);
+        yield "\">Accompagnement visa</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 639
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 639, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -811,12 +863,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 654
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_3.jpg"), 654, $this->source);
+        // line 646
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_3.jpg"), 646, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Airbirds</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 648
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 648, $this->source);
+        yield "\">Billetterie &amp; vols</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 649
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 649, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -824,12 +882,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 664
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_4.jpg"), 664, $this->source);
+        // line 656
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_4.jpg"), 656, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Faune sauvage</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 658
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 658, $this->source);
+        yield "\">Tourisme national &amp; international</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 659
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 659, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -837,12 +901,18 @@ Category Area
                         <div class=\"category-card single2\">
                             <div class=\"box-img global-img\">
                                 <img src=\"";
-        // line 674
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_5.jpg"), 674, $this->source);
+        // line 666
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/category/category_1_5.jpg"), 666, $this->source);
         yield "\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Marche</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"";
+        // line 668
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 668, $this->source);
+        yield "\">Vente &amp; location de véhicules</a></h3>
+                            <a class=\"line-btn\" href=\"";
+        // line 669
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 669, $this->source);
+        yield "\">Voir plus</a>
                         </div>
                     </div>
 
@@ -864,20 +934,20 @@ About Area
                 <div class=\"img-box3\">
                     <div class=\"img1\">
                         <img src=\"";
-        // line 698
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_1.jpg"), 698, $this->source);
+        // line 690
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_1.jpg"), 690, $this->source);
         yield "\" alt=\"About\">
                     </div>
                     <div class=\"img2\">
                         <img src=\"";
-        // line 701
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_2.jpg"), 701, $this->source);
+        // line 693
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_2.jpg"), 693, $this->source);
         yield "\" alt=\"About\">
                     </div>
                     <div class=\"img3 movingX\">
                         <img src=\"";
-        // line 704
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_3.jpg"), 704, $this->source);
+        // line 696
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/normal/about_3_3.jpg"), 696, $this->source);
         yield "\" alt=\"About\">
                     </div>
                 </div>
@@ -885,41 +955,39 @@ About Area
             <div class=\"col-xl-5\">
                 <div class=\"ps-xl-4\">
                     <div class=\"title-area mb-20 pe-xxl-5 me-xxl-5\">
-                        <span class=\"sub-title style1 \">Partons Ensemble</span>
-                        <h2 class=\"sec-title mb-20 pe-xl-5 me-xl-5 heading\">Planifiez votre voyage avec nous</h2>
+                        <span class=\"sub-title style1 \">Pourquoi nous choisir</span>
+                        <h2 class=\"sec-title mb-20 pe-xl-5 me-xl-5 heading\">Voyagez sans stress, on s\x27occupe de tout</h2>
                     </div>
-                    <p class=\"sec-text mb-30\">Il existe de nombreuses variantes de passages disponibles, mais la majorité a subi une altération sous une forme ou une autre, par l\x27injection de mots générés aléatoirement.</p>
+                    <p class=\"sec-text mb-30\">Basée à Grand-Bassam, Life Voyages &amp; Tourisme accompagne particuliers, familles et entreprises dans tous leurs projets de voyage. Grâce à notre réseau partenaire international, nous vous proposons des solutions fiables, adaptées à votre budget.</p>
                     <div class=\"about-item-wrap\">
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"";
-        // line 717
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_1.svg"), 717, $this->source);
+        // line 709
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_1.svg"), 709, $this->source);
         yield "\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">Voyage Exclusif</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la
-                                    majorité.</p>
+                                <h5 class=\"box-title\">Service rapide et professionnel</h5>
+                                <p class=\"about-item_text\">Traitement rapide des dossiers visa et réponse le jour même sur WhatsApp.</p>
                             </div>
                         </div>
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"";
-        // line 725
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_2.svg"), 725, $this->source);
+        // line 716
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_2.svg"), 716, $this->source);
         yield "\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">La Sécurité Avant Tout</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la majorité.</p>
+                                <h5 class=\"box-title\">Sécurité et confidentialité</h5>
+                                <p class=\"about-item_text\">Vos documents personnels sont traités avec soin et restent strictement confidentiels.</p>
                             </div>
                         </div>
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"";
-        // line 732
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_3.svg"), 732, $this->source);
+        // line 723
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/about_1_3.svg"), 723, $this->source);
         yield "\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">Guide Professionnel</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la
-                                    majorité.</p>
+                                <h5 class=\"box-title\">Accompagnement personnalisé</h5>
+                                <p class=\"about-item_text\">Un conseiller suit votre dossier et vous explique chaque étape, jusqu\x27à votre départ.</p>
                             </div>
                         </div>
                     </div>
@@ -930,39 +998,39 @@ About Area
     </div>
     <div class=\"shape-mockup movingX d-none d-xxl-block\" data-top=\"4%\" data-left=\"2%\">
         <img src=\"";
-        // line 746
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_1.png"), 746, $this->source);
+        // line 736
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_1.png"), 736, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup jump d-none d-xxl-block\" data-top=\"28%\" data-right=\"5%\">
         <img src=\"";
-        // line 749
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_2.png"), 749, $this->source);
+        // line 739
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_2.png"), 739, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup spin d-none d-xxl-block\" data-bottom=\"18%\" data-left=\"2%\">
         <img src=\"";
-        // line 752
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_3.png"), 752, $this->source);
+        // line 742
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_3.png"), 742, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup movixgX d-none d-xxl-block\" data-bottom=\"18%\" data-right=\"2%\">
         <img src=\"";
-        // line 755
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_4.png"), 755, $this->source);
+        // line 745
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_4.png"), 745, $this->source);
         yield "\" alt=\"shape\">
     </div>
 
     <div class=\"shape-mockup movingCar d-none d-xxl-block\" data-bottom=\"0%\" data-right=\"2%\">
         <img src=\"";
-        // line 759
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/car_1.png"), 759, $this->source);
+        // line 749
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/car_1.png"), 749, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup d-none d-xxl-block\" data-bottom=\"0%\" data-right=\"0%\">
         <img src=\"";
-        // line 762
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/tree_1.png"), 762, $this->source);
+        // line 752
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/tree_1.png"), 752, $this->source);
         yield "\" alt=\"shape\">
     </div>
 
@@ -975,24 +1043,24 @@ Service Area
         <div class=\"row justify-content-center\">
             <div class=\"col-lg-8\">
                 <div class=\"title-area text-center\">
-                    <span class=\"sub-title\">Meilleure Expérience</span>
-                    <h2 class=\"sec-title\">Une Expérience de Voyage Incroyable</h2>
+                    <span class=\"sub-title\">Nos offres</span>
+                    <h2 class=\"sec-title\">Circuits, hôtels et véhicules</h2>
                 </div>
             </div>
         </div>
         <div class=\"nav nav-tabs tour-tabs\" id=\"nav-tab\" role=\"tablist\">
             <button class=\"nav-link th-btn active\" id=\"nav-step1-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step1\" type=\"button\"><img src=\"";
-        // line 780
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_1.svg"), 780, $this->source);
-        yield "\" alt=\"\">Forfait Circuit</button>
+        // line 770
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_1.svg"), 770, $this->source);
+        yield "\" alt=\"\">Circuits</button>
             <button class=\"nav-link th-btn\" id=\"nav-step2-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step2\" type=\"button\"><img src=\"";
-        // line 781
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_2.svg"), 781, $this->source);
-        yield "\" alt=\"\">Hotel</button>
+        // line 771
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_2.svg"), 771, $this->source);
+        yield "\" alt=\"\">Hôtels</button>
             <button class=\"nav-link th-btn\" id=\"nav-step3-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step3\" type=\"button\"><img src=\"";
-        // line 782
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_3.svg"), 782, $this->source);
-        yield "\" alt=\"\">Transport</button>
+        // line 772
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/tour_icon_3.svg"), 772, $this->source);
+        yield "\" alt=\"\">Véhicules</button>
         </div>
 
         <div class=\"tab-content\" id=\"nav-tabContent\">
@@ -1004,12 +1072,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 793
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_1.jpg"), 793, $this->source);
+        // line 783
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_1.jpg"), 783, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Greece Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Grand-Bassam historique</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1017,9 +1085,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>1 Jour</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1030,12 +1098,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 816
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_2.jpg"), 816, $this->source);
+        // line 806
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_2.jpg"), 806, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Italie Tour package</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Week-end à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1043,9 +1111,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1056,12 +1124,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 839
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_3.jpg"), 839, $this->source);
+        // line 829
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_3.jpg"), 829, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Dubaï Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Yamoussoukro, la capitale</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1069,9 +1137,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1082,12 +1150,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 862
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_4.jpg"), 862, $this->source);
+        // line 852
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_4.jpg"), 852, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Suisse</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Man et ses cascades</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1095,9 +1163,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>3 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1108,12 +1176,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 885
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_1.jpg"), 885, $this->source);
+        // line 875
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_1.jpg"), 875, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Greece Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Grand-Bassam historique</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1121,9 +1189,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>1 Jour</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1134,12 +1202,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 908
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_2.jpg"), 908, $this->source);
+        // line 898
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_2.jpg"), 898, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Italie Tour package</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Week-end à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1147,9 +1215,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1160,12 +1228,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 931
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_3.jpg"), 931, $this->source);
+        // line 921
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_3.jpg"), 921, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Dubaï Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Yamoussoukro, la capitale</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1173,9 +1241,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1186,12 +1254,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 954
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_4.jpg"), 954, $this->source);
+        // line 944
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_4.jpg"), 944, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Suisse</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Man et ses cascades</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1199,9 +1267,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>3 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1224,12 +1292,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 989
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_5.jpg"), 989, $this->source);
+        // line 979
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_5.jpg"), 979, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Plaza, New York</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Grand-Bassam</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1237,9 +1305,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1250,12 +1318,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1012
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_6.jpg"), 1012, $this->source);
+        // line 1002
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_6.jpg"), 1002, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hotel Ritz Paris</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Résidence meublée à Abidjan</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1263,9 +1331,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$970.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1276,12 +1344,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1035
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_7.jpg"), 1035, $this->source);
+        // line 1025
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_7.jpg"), 1025, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Claridge’s, London</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Dubaï</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1289,9 +1357,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$960.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1302,12 +1370,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1058
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_8.jpg"), 1058, $this->source);
+        // line 1048
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_8.jpg"), 1048, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Taj Mahal Palace, India</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Paris</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1315,9 +1383,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$940.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1328,12 +1396,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1081
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_9.jpg"), 1081, $this->source);
+        // line 1071
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_9.jpg"), 1071, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Peninsula Hong Kong</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1341,9 +1409,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$970.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1354,12 +1422,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1104
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_10.jpg"), 1104, $this->source);
+        // line 1094
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_10.jpg"), 1094, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Ritz Hotel London</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Résidence meublée à Grand-Bassam</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1367,9 +1435,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$940.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1380,12 +1448,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1127
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_11.jpg"), 1127, $this->source);
+        // line 1117
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_11.jpg"), 1117, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Shelbourne Hotel, Dublin</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Casablanca</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1393,9 +1461,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$990.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1406,12 +1474,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1150
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_12.jpg"), 1150, $this->source);
+        // line 1140
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_12.jpg"), 1140, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Beverly Hills Hotel</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Yamoussoukro</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1419,9 +1487,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$950.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1443,12 +1511,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1184
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_13.jpg"), 1184, $this->source);
+        // line 1174
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_13.jpg"), 1174, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Caravane</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Citadine</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1456,9 +1524,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1469,12 +1537,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1207
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_14.jpg"), 1207, $this->source);
+        // line 1197
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_14.jpg"), 1197, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Bus Couchette </a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">SUV &amp; 4x4</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1482,9 +1550,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1495,12 +1563,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1230
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_15.jpg"), 1230, $this->source);
+        // line 1220
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_15.jpg"), 1220, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Train</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Véhicule premium</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1508,9 +1576,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1521,12 +1589,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1253
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_16.jpg"), 1253, $this->source);
+        // line 1243
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_16.jpg"), 1243, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Avion</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Achat de véhicule</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1534,9 +1602,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">Sur devis</span></h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Vente sur devis</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1547,12 +1615,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1276
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_17.jpg"), 1276, $this->source);
+        // line 1266
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_17.jpg"), 1266, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Transport en Croisière</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Location longue durée</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1560,9 +1628,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Mois</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1573,12 +1641,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1299
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_18.jpg"), 1299, $this->source);
+        // line 1289
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_18.jpg"), 1289, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Avion</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Achat de véhicule</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1586,9 +1654,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">Sur devis</span></h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Vente sur devis</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1599,12 +1667,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1322
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_19.jpg"), 1322, $this->source);
+        // line 1312
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_19.jpg"), 1312, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Bus Couchette </a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">SUV &amp; 4x4</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1612,9 +1680,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1625,12 +1693,12 @@ Service Area
                                 <div class=\"tour-box th-ani gsap-cursor\">
                                     <div class=\"tour-box_img global-img\">
                                         <img src=\"";
-        // line 1345
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_20.jpg"), 1345, $this->source);
+        // line 1335
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/tour/tour_box_20.jpg"), 1335, $this->source);
         yield "\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Train</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Véhicule premium</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -1638,9 +1706,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -1662,8 +1730,8 @@ Galerie Area
 <div class=\"overflow-hidden space-bottom\">
     <div class=\"container\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Rendez votre circuit plus agréable</span>
-            <h2 class=\"sec-title\">Recent Galerie</h2>
+            <span class=\"sub-title\">Ils ont voyagé avec nous</span>
+            <h2 class=\"sec-title\">Nos voyageurs en images</h2>
         </div>
         <div class=\"row gy-24 gx-24 justify-content-center\">
             <div class=\"col-lg-3\">
@@ -1672,8 +1740,8 @@ Galerie Area
                         <a href=\"assets/img/gallery/gallery_3_1.jpg\" class=\"popup-image\">
                             <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                             <img src=\"";
-        // line 1389
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_1.jpg"), 1389, $this->source);
+        // line 1379
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_1.jpg"), 1379, $this->source);
         yield "\" alt=\"gallery image\">
                         </a>
                     </div>
@@ -1685,8 +1753,8 @@ Galerie Area
                         <a href=\"assets/img/gallery/gallery_3_2.jpg\" class=\"popup-image\">
                             <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                             <img src=\"";
-        // line 1399
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_2.jpg"), 1399, $this->source);
+        // line 1389
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_2.jpg"), 1389, $this->source);
         yield "\" alt=\"gallery image\">
                         </a>
                     </div>
@@ -1696,8 +1764,8 @@ Galerie Area
                         <a href=\"assets/img/gallery/gallery_3_4.jpg\" class=\"popup-image\">
                             <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                             <img src=\"";
-        // line 1407
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_4.jpg"), 1407, $this->source);
+        // line 1397
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_4.jpg"), 1397, $this->source);
         yield "\" alt=\"gallery image\">
                         </a>
                     </div>
@@ -1709,8 +1777,8 @@ Galerie Area
                         <a href=\"assets/img/gallery/gallery_3_3.jpg\" class=\"popup-image\">
                             <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                             <img src=\"";
-        // line 1417
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_3.jpg"), 1417, $this->source);
+        // line 1407
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_3.jpg"), 1407, $this->source);
         yield "\" alt=\"gallery image\">
                         </a>
                     </div>
@@ -1721,8 +1789,8 @@ Galerie Area
                             <a href=\"assets/img/gallery/gallery_3_5.jpg\" class=\"popup-image\">
                                 <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                                 <img src=\"";
-        // line 1426
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_5.jpg"), 1426, $this->source);
+        // line 1416
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_5.jpg"), 1416, $this->source);
         yield "\" alt=\"gallery image\">
                             </a>
                         </div>
@@ -1732,8 +1800,8 @@ Galerie Area
                             <a href=\"assets/img/gallery/gallery_3_6.jpg\" class=\"popup-image\">
                                 <div class=\"icon-btn\"><i class=\"fal fa-magnifying-glass-plus\"></i></div>
                                 <img src=\"";
-        // line 1434
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_6.jpg"), 1434, $this->source);
+        // line 1424
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_6.jpg"), 1424, $this->source);
         yield "\" alt=\"gallery image\">
                             </a>
                         </div>
@@ -1748,8 +1816,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1447
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_1.jpg"), 1447, $this->source);
+        // line 1437
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_1.jpg"), 1437, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_1.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1760,8 +1828,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1456
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_2.jpg"), 1456, $this->source);
+        // line 1446
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_2.jpg"), 1446, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_2.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1772,8 +1840,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1465
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_3.jpg"), 1465, $this->source);
+        // line 1455
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_3.jpg"), 1455, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_3.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1784,8 +1852,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1474
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_4.jpg"), 1474, $this->source);
+        // line 1464
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_4.jpg"), 1464, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_4.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1796,8 +1864,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1483
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_5.jpg"), 1483, $this->source);
+        // line 1473
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_5.jpg"), 1473, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_5.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1808,8 +1876,8 @@ Galerie Area
 <div class=\"gallery-box style2\">
     <div class=\"gallery-img global-img\">
         <img src=\"";
-        // line 1492
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_6.jpg"), 1492, $this->source);
+        // line 1482
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/gallery/gallery_3_6.jpg"), 1482, $this->source);
         yield "\" alt=\"gallery image\">
         <a href=\"assets/img/gallery/gallery_3_6.jpg\" class=\"icon-btn popup-image\"><i
                 class=\"fal fa-magnifying-glass-plus\"></i></a>
@@ -1824,8 +1892,8 @@ Team Area
 <section class=\"team-area3 position-relative bg-top-center space\" data-bg-src=\"assets/img/bg/team_bg_2.jpg\">
     <div class=\"container z-index-common\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Rencontrez nos guides</span>
-            <h2 class=\"sec-title\">Rencontrez le guide touristique</h2>
+            <span class=\"sub-title\">Notre équipe</span>
+            <h2 class=\"sec-title\">Vos conseillers voyage</h2>
         </div>
         <div class=\"slider-area\">
             <div class=\"swiper th-slider teamSlider3 has-shadow\" id=\"teamSlider3\" data-slider-options=\x27{\"breakpoints\":{\"0\":{\"slidesPerView\":1},\"576\":{\"slidesPerView\":\"1\"},\"768\":{\"slidesPerView\":\"2\"},\"992\":{\"slidesPerView\":\"3\"},\"1200\":{\"slidesPerView\":\"3\"}}}\x27>
@@ -1835,20 +1903,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1516
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1516, $this->source);
+        // line 1506
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1506, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1519
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_1.jpg"), 1519, $this->source);
+        // line 1509
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_1.jpg"), 1509, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Michel Smith</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Directeur(trice)</span>
 
 
                                     <div class=\"th-social\">
@@ -1868,20 +1936,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1543
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1543, $this->source);
+        // line 1533
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1533, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1546
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_2.jpg"), 1546, $this->source);
+        // line 1536
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_2.jpg"), 1536, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Janny Willson</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Conseiller(ère) visa</span>
 
 
                                     <div class=\"th-social\">
@@ -1901,20 +1969,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1570
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_3.jpg"), 1570, $this->source);
+        // line 1560
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_3.jpg"), 1560, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1573
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_3.jpg"), 1573, $this->source);
+        // line 1563
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_3.jpg"), 1563, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Jacob Jones</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Billetterie</span>
 
 
                                     <div class=\"th-social\">
@@ -1934,20 +2002,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1597
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1597, $this->source);
+        // line 1587
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1587, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1600
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_4.jpg"), 1600, $this->source);
+        // line 1590
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_4.jpg"), 1590, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Maria Prova</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Tourisme &amp; circuits</span>
 
 
                                     <div class=\"th-social\">
@@ -1967,20 +2035,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1624
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1624, $this->source);
+        // line 1614
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1614, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1627
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_5.jpg"), 1627, $this->source);
+        // line 1617
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_5.jpg"), 1617, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Rebeka Maliha</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Location de véhicules</span>
 
 
                                     <div class=\"th-social\">
@@ -2000,20 +2068,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1651
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_3.jpg"), 1651, $this->source);
+        // line 1641
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_3.jpg"), 1641, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1654
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_6.jpg"), 1654, $this->source);
+        // line 1644
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_6.jpg"), 1644, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Alif Mahmud</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Service client</span>
 
 
                                     <div class=\"th-social\">
@@ -2033,20 +2101,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1678
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1678, $this->source);
+        // line 1668
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_1.jpg"), 1668, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1681
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_3.jpg"), 1681, $this->source);
+        // line 1671
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_3.jpg"), 1671, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Guy Hawkins</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Conseiller(ère) visa</span>
 
 
                                     <div class=\"th-social\">
@@ -2066,20 +2134,20 @@ Team Area
                         <div class=\"th-team team-grid\">
                             <div class=\"team-img\">
                                 <img src=\"";
-        // line 1705
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1705, $this->source);
+        // line 1695
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_img_2.jpg"), 1695, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-img2\">
                                 <img src=\"";
-        // line 1708
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_4.jpg"), 1708, $this->source);
+        // line 1698
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/team/team_1_4.jpg"), 1698, $this->source);
         yield "\" alt=\"Team\">
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Jenny Wilson</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Billetterie</span>
 
 
                                     <div class=\"th-social\">
@@ -2100,12 +2168,12 @@ Team Area
 
             </div>
             <button data-slider-prev=\"#teamSlider3\" class=\"slider-arrow slider-prev\"><img src=\"";
-        // line 1733
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/right-arrow2.svg"), 1733, $this->source);
+        // line 1723
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/right-arrow2.svg"), 1723, $this->source);
         yield "\" alt=\"\"></button>
             <button data-slider-next=\"#teamSlider3\" class=\"slider-arrow slider-next\"><img src=\"";
-        // line 1734
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/left-arrow2.svg"), 1734, $this->source);
+        // line 1724
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/left-arrow2.svg"), 1724, $this->source);
         yield "\" alt=\"\"></button>
         </div>
     </div>
@@ -2126,8 +2194,8 @@ Contact Area
                 <div class=\"pt-80 p-lg-0\">
                     <div class=\"title-area pe-xl-5\">
                         <span class=\"sub-title text-white\">Contactez-nous</span>
-                        <h2 class=\"sec-title text-white\">Dites-nous bonjour</h2>
-                        <p class=\"contact-text text-white\">Nous serions ravis d\x27avoir de vos nouvelles. Notre équipe sympathique est toujours là pour discuter</p>
+                        <h2 class=\"sec-title text-white\">Demandez votre devis</h2>
+                        <p class=\"contact-text text-white\">Demandez votre visa, billet d\x27avion ou assurance voyage dès aujourd\x27hui ! Notre équipe vous répond rapidement.</p>
                     </div>
                 </div>
             </div>
@@ -2136,34 +2204,35 @@ Contact Area
                     <form action=\"mail.php\" method=\"POST\" class=\"contact-form2 ajax-contact\">
                         <div class=\"row\">
                             <div class=\"form-group col-12\">
-                                <input type=\"text\" class=\"form-control\" name=\"name\" id=\"name3\" placeholder=\"Prénom\">
+                                <input type=\"text\" class=\"form-control\" name=\"name\" id=\"name3\" placeholder=\"Nom et prénom\">
                                 <img src=\"";
-        // line 1765
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/user.svg"), 1765, $this->source);
+        // line 1755
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/user.svg"), 1755, $this->source);
         yield "\" alt=\"\">
                             </div>
                             <div class=\"form-group col-12\">
                                 <input type=\"email\" class=\"form-control\" name=\"email3\" id=\"email3\" placeholder=\"Votre email\">
                                 <img src=\"";
-        // line 1769
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/mail.svg"), 1769, $this->source);
+        // line 1759
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/mail.svg"), 1759, $this->source);
         yield "\" alt=\"\">
                             </div>
                             <div class=\"form-group col-12\">
                                 <select name=\"subject\" id=\"subject\" class=\"form-select nice-select\">
-                                    <option value=\"Sélectionnez un type de circuit\" selected disabled>Sélectionnez un type de circuit</option>
-                                    <option value=\"Aventure en Afrique\">Aventure en Afrique</option>
-                                    <option value=\"Afrique Sauvage\">Afrique Sauvage</option>
-                                    <option value=\"Asie\">Asie</option>
-                                    <option value=\"Scandinavie\">Scandinavie</option>
-                                    <option value=\"Europe de l\x27Ouest\">Europe de l\x27Ouest</option>
+                                    <option value=\"Service concerné\" selected disabled>Service concerné</option>
+                                    <option value=\"Accompagnement visa\">Accompagnement visa</option>
+                                    <option value=\"Billetterie / vols\">Billetterie / vols</option>
+                                    <option value=\"Tourisme\">Tourisme</option>
+                                    <option value=\"Véhicules\">Véhicules</option>
+                                    <option value=\"Hôtels &amp; résidences\">Hôtels &amp; résidences</option>
+                                    <option value=\"Assurance voyage\">Assurance voyage</option>
                                 </select>
                             </div>
                             <div class=\"form-group col-12\">
                                 <textarea name=\"message\" id=\"message\" cols=\"30\" rows=\"3\" class=\"form-control\" placeholder=\"Votre message\"></textarea>
                                 <img src=\"";
-        // line 1783
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/chat.svg"), 1783, $this->source);
+        // line 1774
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/chat.svg"), 1774, $this->source);
         yield "\" alt=\"\">
                             </div>
                         </div>
@@ -2171,17 +2240,17 @@ Contact Area
                     </form>
                     <div class=\"form-btn-wrapp\">
                         <div class=\"form-btn\">
-                            <button class=\"th-btn white-btn\">Envoyer le message <img src=\"";
-        // line 1790
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/plane3.svg"), 1790, $this->source);
+                            <button class=\"th-btn white-btn\">Envoyer ma demande <img src=\"";
+        // line 1781
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/plane3.svg"), 1781, $this->source);
         yield "\" alt=\"\"></button>
                         </div>
                         <div class=\"contact-info\">
-                            <p class=\"contact-info_link\"><a href=\"tel:+0123456789\">+012 345 6789</a></p>
+                            <p class=\"contact-info_link\"><a href=\"tel:+2250757397423\">+225 07 57 39 74 23</a></p>
                             <div class=\"contact-info_icon\">
-                                <a href=\"tel:+0123456789\"><img src=\"";
-        // line 1795
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/call.svg"), 1795, $this->source);
+                                <a href=\"tel:+2250757397423\"><img src=\"";
+        // line 1786
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/call.svg"), 1786, $this->source);
         yield "\" alt=\"\"></a>
                             </div>
                         </div>
@@ -2197,7 +2266,7 @@ Testimonial Area
     <div class=\"container\">
         <div class=\"title-area text-center\">
             <span class=\"sub-title\">Témoignages</span>
-            <h2 class=\"sec-title\">Avis de nos clients</h2>
+            <h2 class=\"sec-title\">Ce que disent nos clients</h2>
         </div>
         <div class=\"row justify-content-center\">
             <div class=\"col-xl-12\">
@@ -2207,14 +2276,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1819
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_1.png"), 1819, $this->source);
+        // line 1810
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_1.png"), 1810, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Un foyer qui allie parfaitement durabilité et luxe, jusqu\x27à ce que je découvre Ecoland Residence. Dès que j\x27ai posé le pied dans cette communauté, j\x27ai su que c\x27était là où je voulais vivre.”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Andrew Simon</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Dossier Schengen préparé avec beaucoup de rigueur. On m\x27a expliqué chaque document, je me suis sentie accompagnée du début à la fin.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Visa France</span>
 
                                 </div>
 
@@ -2224,14 +2293,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1833
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_2.png"), 1833, $this->source);
+        // line 1824
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_2.png"), 1824, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Cette maison affiche une architecture élégante et contemporaine, avec des lignes épurées et de larges fenêtres laissant la lumière naturelle inonder l\x27intérieur. Elle intègre des principes de conception passive”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Maria Doe</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Billet Abidjan – Dubaï trouvé à un très bon prix, et réponse rapide sur WhatsApp. Je recommande.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Billet d\x27avion</span>
 
                                 </div>
 
@@ -2241,14 +2310,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1847
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_3.png"), 1847, $this->source);
+        // line 1838
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_3.png"), 1838, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Des panneaux solaires ornent le toit, exploitant l\x27énergie renouvelable pour alimenter la maison et même réinjecter l\x27électricité excédentaire dans le réseau. Une isolation haute performance et du triple vitrage”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Angelina Rose</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Pour mon visa étudiant, l\x27équipe m\x27a guidé étape par étape. Un vrai soutien pour ma famille et moi.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Visa étudiant Canada</span>
 
                                 </div>
 
@@ -2258,14 +2327,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1861
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_4.png"), 1861, $this->source);
+        // line 1852
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_4.png"), 1852, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">Un système sophistiqué de récupération des eaux de pluie collecte et filtre l\x27eau pour l\x27irrigation et les usages non potables, réduisant la dépendance aux sources d\x27eau municipales. Les systèmes d\x27eaux grises</p>
-                                    <h6 class=\"testi-grid_name box-title\">Michel Carlos</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Location d\x27un 4x4 pour un voyage à Man : véhicule propre, livré à l\x27heure, prix respecté.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Location véhicule</span>
 
                                 </div>
 
@@ -2275,14 +2344,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1875
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_5.png"), 1875, $this->source);
+        // line 1866
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_5.png"), 1866, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">Dans tout l\x27intérieur, des matériaux écologiques comme le bois récupéré, les sols en bambou et les plans de travail en verre recyclé créent une ambiance luxueuse et durable.</p>
-                                    <h6 class=\"testi-grid_name box-title\">Michel Smith</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Week-end à Assinie parfaitement organisé pour notre famille. Nous n\x27avions rien à gérer.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Circuit Assinie</span>
 
                                 </div>
 
@@ -2292,14 +2361,14 @@ Testimonial Area
                             <div class=\"testi-grid\">
                                 <div class=\"testi-grid_author\">
                                     <img src=\"";
-        // line 1889
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_6.png"), 1889, $this->source);
+        // line 1880
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_6.png"), 1880, $this->source);
         yield "\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Un foyer qui allie parfaitement durabilité et luxe, jusqu\x27à ce que je découvre Ecoland Residence. Dès que j\x27ai posé le pied dans cette communauté, j\x27ai su que c\x27était là où je voulais vivre.”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Jesmen</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Assurance voyage souscrite en quelques minutes, avec l\x27attestation demandée pour mon visa. Service sérieux.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Assurance voyage</span>
 
                                 </div>
 
@@ -2317,48 +2386,48 @@ Testimonial Area
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1911
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_1.png"), 1911, $this->source);
+        // line 1902
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_1.png"), 1902, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1916
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_2.png"), 1916, $this->source);
+        // line 1907
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_2.png"), 1907, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1921
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_3.png"), 1921, $this->source);
+        // line 1912
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_3.png"), 1912, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1926
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_4.png"), 1926, $this->source);
+        // line 1917
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_4.png"), 1917, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1931
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_5.png"), 1931, $this->source);
+        // line 1922
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_5.png"), 1922, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
             <div class=\"swiper-slide\">
                 <div class=\"box-img\">
                     <img src=\"";
-        // line 1936
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_6.png"), 1936, $this->source);
+        // line 1927
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/testimonial/testi_3_6.png"), 1927, $this->source);
         yield "\" alt=\"Image\">
                 </div>
             </div>
@@ -2366,20 +2435,20 @@ Testimonial Area
     </div>
     <div class=\"shape-mockup movingX d-none d-xl-block\" data-top=\"20%\" data-left=\"5%\">
         <img class=\"gmovingX\" src=\"";
-        // line 1942
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_7.png"), 1942, $this->source);
+        // line 1933
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_7.png"), 1933, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup spin d-none d-xl-block\" data-bottom=\"12%\" data-right=\"5%\">
         <img src=\"";
-        // line 1945
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_5.png"), 1945, $this->source);
+        // line 1936
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_5.png"), 1936, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup jump d-none d-xl-block\" data-bottom=\"15%\" data-left=\"5%\">
         <img src=\"";
-        // line 1948
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_2.png"), 1948, $this->source);
+        // line 1939
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2_2.png"), 1939, $this->source);
         yield "\" alt=\"shape\">
     </div>
 </section><!--==============================
@@ -2394,12 +2463,26 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 1952
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 1952, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
+        // line 1953
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 1953, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                        </a>
+                    </div>
+                </div>
+                <div class=\"swiper-slide\">
+                    <div class=\"brand-box\">
+                        <a href=\"\">
+                            <img class=\"original\" src=\"";
+        // line 1960
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 1960, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 1961
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 1961, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 1962
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 1962, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 1961, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2408,12 +2491,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 1968
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 1968, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 1969
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 1969, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 1970
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 1970, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 1969, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2422,12 +2505,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 1976
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 1976, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 1977
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 1977, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 1978
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 1978, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 1977, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2436,12 +2519,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 1984
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_5.svg"), 1984, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 1985
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 1985, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 1986
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 1986, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_5.svg"), 1985, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2450,12 +2533,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 1992
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_6.svg"), 1992, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 1993
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_5.svg"), 1993, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 1994
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_5.svg"), 1994, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_6.svg"), 1993, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2464,12 +2547,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2000
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_7.svg"), 2000, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2001
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_6.svg"), 2001, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2002
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_6.svg"), 2002, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_7.svg"), 2001, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2478,12 +2561,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2008
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_8.svg"), 2008, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2009
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_7.svg"), 2009, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2010
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_7.svg"), 2010, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_8.svg"), 2009, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2492,12 +2575,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2016
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 2016, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2017
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_8.svg"), 2017, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2018
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_8.svg"), 2018, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 2017, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2506,12 +2589,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2024
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 2024, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2025
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 2025, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2026
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_4.svg"), 2026, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 2025, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2520,12 +2603,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2032
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 2032, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2033
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 2033, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2034
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_3.svg"), 2034, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 2033, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2534,26 +2617,12 @@ Brand Area
                     <div class=\"brand-box\">
                         <a href=\"\">
                             <img class=\"original\" src=\"";
+        // line 2040
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 2040, $this->source);
+        yield "\" alt=\"Brand Logo\">
+                            <img class=\"gray\" src=\"";
         // line 2041
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 2041, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2042
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_2.svg"), 2042, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                        </a>
-                    </div>
-                </div>
-                <div class=\"swiper-slide\">
-                    <div class=\"brand-box\">
-                        <a href=\"\">
-                            <img class=\"original\" src=\"";
-        // line 2049
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 2049, $this->source);
-        yield "\" alt=\"Brand Logo\">
-                            <img class=\"gray\" src=\"";
-        // line 2050
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 2050, $this->source);
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/brand/brand_1_1.svg"), 2041, $this->source);
         yield "\" alt=\"Brand Logo\">
                         </a>
                     </div>
@@ -2571,14 +2640,14 @@ Blog Area
         <div class=\"row justify-content-lg-between justify-content-center align-items-end\">
             <div class=\"col-lg\">
                 <div class=\"title-area text-center text-lg-start\">
-                    <span class=\"sub-title\">Blog et Articles</span>
-                    <h2 class=\"sec-title\">Blog et Articles de Life Voyage</h2>
+                    <span class=\"sub-title\">Conseils voyage</span>
+                    <h2 class=\"sec-title\">Nos conseils pour bien voyager</h2>
 
                 </div>
             </div>
             <div class=\"col-lg-auto d-none d-lg-block\">
                 <div class=\"sec-btn\">
-                    <a href=\"blog.html\" class=\"th-btn style4 th-icon\">Voir plus d\x27articles</a>
+                    <a href=\"blog.html\" class=\"th-btn style4 th-icon\">Voir tous les conseils</a>
                 </div>
             </div>
         </div>
@@ -2587,17 +2656,16 @@ Blog Area
                 <div class=\"blog-grid th-ani\">
                     <div class=\"blog-img global-img\">
                         <img src=\"";
-        // line 2082
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_1.jpg"), 2082, $this->source);
+        // line 2073
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_1.jpg"), 2073, $this->source);
         yield "\" alt=\"blog image\">
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">05 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">10 Septembre 2026</a>
                             <a href=\"blog.html\">6 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Une agence de voyage pour ceux qui veulent explorer
-                            le monde et vivre l\x27aventure</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Visa Schengen depuis la Côte d\x27Ivoire : les documents à préparer</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
@@ -2606,35 +2674,32 @@ Blog Area
                 <div class=\"blog-grid style2 th-ani\">
                     <div class=\"blog-img global-img\">
                         <img src=\"";
-        // line 2098
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_2.jpg"), 2098, $this->source);
+        // line 2088
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_2.jpg"), 2088, $this->source);
         yield "\" alt=\"blog image\">
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">07 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">02 Septembre 2026</a>
                             <a href=\"blog.html\">7 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Le meilleur moment pour visiter le Japon et profiter
-                            des
-                            cerisiers en fleurs</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Étudier au Canada : les étapes du visa étudiant</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
                 <div class=\"blog-grid th-ani style2 mt-24\">
                     <div class=\"blog-img global-img\">
                         <img src=\"";
-        // line 2113
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_3.jpg"), 2113, $this->source);
+        // line 2101
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/blog/blog_3_3.jpg"), 2101, $this->source);
         yield "\" alt=\"blog image\">
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">10 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">25 Août 2026</a>
                             <a href=\"blog.html\">8 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">L\x27histoire cachée du Japon et l\x27envie de
-                            vivre l\x27aventure</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Assurance voyage : pourquoi est-elle indispensable ?</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
@@ -2643,209 +2708,31 @@ Blog Area
     </div>
     <div class=\"shape-mockup shape1 d-none d-xxl-block\" data-top=\"14%\" data-right=\"9%\">
         <img src=\"";
-        // line 2129
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_1.png"), 2129, $this->source);
+        // line 2116
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_1.png"), 2116, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup shape2 d-none d-xl-block\" data-top=\"25%\" data-right=\"6%\">
         <img src=\"";
-        // line 2132
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2.png"), 2132, $this->source);
+        // line 2119
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_2.png"), 2119, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup shape3 d-none d-xxl-block\" data-top=\"15%\" data-right=\"4%\">
         <img src=\"";
-        // line 2135
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_3.png"), 2135, $this->source);
+        // line 2122
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_3.png"), 2122, $this->source);
         yield "\" alt=\"shape\">
     </div>
     <div class=\"shape-mockup movingX d-none d-xxl-block\" data-bottom=\"0%\" data-right=\"10%\">
         <img src=\"";
-        // line 2138
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_9.png"), 2138, $this->source);
+        // line 2125
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_9.png"), 2125, $this->source);
         yield "\" alt=\"shape\">
     </div>
 </section><!--==============================
 \tFooter Area
-==============================-->
-<footer class=\"footer-wrapper bg-title footer-layout2\">
-    <div class=\"widget-area\">
-        <div class=\"container\">
-            <div class=\"newsletter-area\">
-                <div class=\"newsletter-top\">
-                    <div class=\"row gy-4 align-items-center\">
-                        <div class=\"col-lg-5\">
-                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">recevez notre dernière
-                                newsletter</h2>
-                        </div>
-                        <div class=\"col-lg-7\">
-                            <form class=\"newsletter-form style2\">
-                                <input class=\"form-control \" type=\"email\" placeholder=\"Entrez votre email\" required=\"\">
-                                <button type=\"submit\" class=\"th-btn style1\">S\x27abonner <img src=\"";
-        // line 2156
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/plane2.svg"), 2156, $this->source);
-        yield "\" alt=\"\"></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=\"row justify-content-between\">
-                <div class=\"col-md-6 col-xl-3\">
-                    <div class=\"widget footer-widget\">
-                        <div class=\"th-widget-about\">
-                            <div class=\"about-logo\">
-                                <a href=\"home-travel.html\"><img style=\"height:56px;width:auto;\" src=\"";
-        // line 2167
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 2167, $this->source);
-        yield "\" alt=\"Life Voyage\"></a>
-                            </div>
-                            <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
-                            <div class=\"th-social\">
-                                <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
-                                <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
-                                <a href=\"https://www.linkedin.com/\"><i class=\"fab fa-linkedin-in\"></i></a>
-                                <a href=\"https://www.whatsapp.com/\"><i class=\"fab fa-whatsapp\"></i></a>
-                                <a href=\"https://instagram.com/\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget widget_nav_menu footer-widget\">
-                        <h3 class=\"widget_title\">Liens rapides</h3>
-                        <div class=\"menu-all-pages-container\">
-                            <ul class=\"menu\">
 
-                                <li><a href=\"index.html\">Accueil</a></li>
-                                <li><a href=\"about.html\">À propos de nous</a></li>
-                                <li><a href=\"service.html\">Nos Services</a></li>
-                                <li><a href=\"contact.html\">Conditions d\x27utilisation</a></li>
-                                <li><a href=\"contact.html\">Réserver un circuit</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Contactez-nous</h3>
-                        <div class=\"th-widget-contact\">
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\">
-                                    <img src=\"";
-        // line 2201
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/phone.svg"), 2201, $this->source);
-        yield "\" alt=\"img\">
-                                </div>
-                                <div class=\"details\">
-                                    <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                                    <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
-                                </div>
-                            </div>
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\">
-                                    <img src=\"";
-        // line 2210
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/envelope.svg"), 2210, $this->source);
-        yield "\" alt=\"img\">
-                                </div>
-                                <div class=\"details\">
-                                    <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                                    <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
-                                </div>
-                            </div>
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\"><img src=\"";
-        // line 2218
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/location-dot.svg"), 2218, $this->source);
-        yield "\" alt=\"img\"></div>
-                                <div class=\"details\">
-                                    <p>789 Inner Lane, Holy park, California, USA</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Publications Instagram</h3>
-                        <div class=\"sidebar-gallery\">
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2231
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_1.jpg"), 2231, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2235
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_2.jpg"), 2235, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2239
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_3.jpg"), 2239, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2243
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_4.jpg"), 2243, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2247
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_5.jpg"), 2247, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"";
-        // line 2251
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/widget/gallery_1_6.jpg"), 2251, $this->source);
-        yield "\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class=\"copyright-wrap\">
-        <div class=\"container\">
-            <div class=\"row justify-content-between align-items-center\">
-                <div class=\"col-md-6\">
-                    <p class=\"copyright-text\">Copyright 2024 <a href=\"home-travel.html\">Life Voyage</a>. Tous droits réservés.</p>
-                </div>
-                <div class=\"col-md-6 text-end d-none d-md-block\">
-                    <div class=\"footer-card\">
-                        <span class=\"title\">Nous acceptons</span>
-                        <img src=\"";
-        // line 2269
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/cards.png"), 2269, $this->source);
-        yield "\" alt=\"\">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <div class=\"shape-mockup movingX d-none d-xxl-block\" data-top=\"24%\" data-left=\"5%\">
-        <img src=\"";
-        // line 2277
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/shape/shape_8.png"), 2277, $this->source);
-        yield "\" alt=\"shape\">
-    </div>
-</footer>
-
-<!--********************************
         Code End  Here
 ******************************** -->
 
@@ -2955,7 +2842,7 @@ modal Area
      */
     public function getDebugInfo(): array
     {
-        return array (  2843 => 2277,  2832 => 2269,  2811 => 2251,  2804 => 2247,  2797 => 2243,  2790 => 2239,  2783 => 2235,  2776 => 2231,  2760 => 2218,  2749 => 2210,  2737 => 2201,  2700 => 2167,  2686 => 2156,  2665 => 2138,  2659 => 2135,  2653 => 2132,  2647 => 2129,  2628 => 2113,  2610 => 2098,  2591 => 2082,  2556 => 2050,  2552 => 2049,  2542 => 2042,  2538 => 2041,  2528 => 2034,  2524 => 2033,  2514 => 2026,  2510 => 2025,  2500 => 2018,  2496 => 2017,  2486 => 2010,  2482 => 2009,  2472 => 2002,  2468 => 2001,  2458 => 1994,  2454 => 1993,  2444 => 1986,  2440 => 1985,  2430 => 1978,  2426 => 1977,  2416 => 1970,  2412 => 1969,  2402 => 1962,  2398 => 1961,  2382 => 1948,  2376 => 1945,  2370 => 1942,  2361 => 1936,  2353 => 1931,  2345 => 1926,  2337 => 1921,  2329 => 1916,  2321 => 1911,  2296 => 1889,  2279 => 1875,  2262 => 1861,  2245 => 1847,  2228 => 1833,  2211 => 1819,  2184 => 1795,  2176 => 1790,  2166 => 1783,  2149 => 1769,  2142 => 1765,  2108 => 1734,  2104 => 1733,  2076 => 1708,  2070 => 1705,  2043 => 1681,  2037 => 1678,  2010 => 1654,  2004 => 1651,  1977 => 1627,  1971 => 1624,  1944 => 1600,  1938 => 1597,  1911 => 1573,  1905 => 1570,  1878 => 1546,  1872 => 1543,  1845 => 1519,  1839 => 1516,  1812 => 1492,  1800 => 1483,  1788 => 1474,  1776 => 1465,  1764 => 1456,  1752 => 1447,  1736 => 1434,  1725 => 1426,  1713 => 1417,  1700 => 1407,  1689 => 1399,  1676 => 1389,  1629 => 1345,  1603 => 1322,  1577 => 1299,  1551 => 1276,  1525 => 1253,  1499 => 1230,  1473 => 1207,  1447 => 1184,  1410 => 1150,  1384 => 1127,  1358 => 1104,  1332 => 1081,  1306 => 1058,  1280 => 1035,  1254 => 1012,  1228 => 989,  1190 => 954,  1164 => 931,  1138 => 908,  1112 => 885,  1086 => 862,  1060 => 839,  1034 => 816,  1008 => 793,  994 => 782,  990 => 781,  986 => 780,  965 => 762,  959 => 759,  952 => 755,  946 => 752,  940 => 749,  934 => 746,  917 => 732,  907 => 725,  896 => 717,  880 => 704,  874 => 701,  868 => 698,  841 => 674,  828 => 664,  815 => 654,  802 => 644,  789 => 634,  776 => 624,  763 => 614,  750 => 604,  737 => 594,  724 => 584,  709 => 572,  686 => 552,  670 => 539,  654 => 526,  638 => 513,  622 => 500,  606 => 487,  581 => 465,  570 => 457,  555 => 445,  481 => 374,  469 => 365,  457 => 356,  445 => 347,  433 => 338,  421 => 329,  415 => 326,  387 => 301,  365 => 282,  344 => 264,  323 => 246,  302 => 228,  289 => 217,  285 => 216,  206 => 140,  181 => 118,  170 => 110,  158 => 101,  139 => 85,  124 => 73,  105 => 57,  61 => 16,  44 => 1,);
+        return array (  2730 => 2125,  2724 => 2122,  2718 => 2119,  2712 => 2116,  2694 => 2101,  2678 => 2088,  2660 => 2073,  2625 => 2041,  2621 => 2040,  2611 => 2033,  2607 => 2032,  2597 => 2025,  2593 => 2024,  2583 => 2017,  2579 => 2016,  2569 => 2009,  2565 => 2008,  2555 => 2001,  2551 => 2000,  2541 => 1993,  2537 => 1992,  2527 => 1985,  2523 => 1984,  2513 => 1977,  2509 => 1976,  2499 => 1969,  2495 => 1968,  2485 => 1961,  2481 => 1960,  2471 => 1953,  2467 => 1952,  2451 => 1939,  2445 => 1936,  2439 => 1933,  2430 => 1927,  2422 => 1922,  2414 => 1917,  2406 => 1912,  2398 => 1907,  2390 => 1902,  2365 => 1880,  2348 => 1866,  2331 => 1852,  2314 => 1838,  2297 => 1824,  2280 => 1810,  2253 => 1786,  2245 => 1781,  2235 => 1774,  2217 => 1759,  2210 => 1755,  2176 => 1724,  2172 => 1723,  2144 => 1698,  2138 => 1695,  2111 => 1671,  2105 => 1668,  2078 => 1644,  2072 => 1641,  2045 => 1617,  2039 => 1614,  2012 => 1590,  2006 => 1587,  1979 => 1563,  1973 => 1560,  1946 => 1536,  1940 => 1533,  1913 => 1509,  1907 => 1506,  1880 => 1482,  1868 => 1473,  1856 => 1464,  1844 => 1455,  1832 => 1446,  1820 => 1437,  1804 => 1424,  1793 => 1416,  1781 => 1407,  1768 => 1397,  1757 => 1389,  1744 => 1379,  1697 => 1335,  1671 => 1312,  1645 => 1289,  1619 => 1266,  1593 => 1243,  1567 => 1220,  1541 => 1197,  1515 => 1174,  1478 => 1140,  1452 => 1117,  1426 => 1094,  1400 => 1071,  1374 => 1048,  1348 => 1025,  1322 => 1002,  1296 => 979,  1258 => 944,  1232 => 921,  1206 => 898,  1180 => 875,  1154 => 852,  1128 => 829,  1102 => 806,  1076 => 783,  1062 => 772,  1058 => 771,  1054 => 770,  1033 => 752,  1027 => 749,  1020 => 745,  1014 => 742,  1008 => 739,  1002 => 736,  986 => 723,  976 => 716,  966 => 709,  950 => 696,  944 => 693,  938 => 690,  914 => 669,  910 => 668,  905 => 666,  895 => 659,  891 => 658,  886 => 656,  876 => 649,  872 => 648,  867 => 646,  857 => 639,  853 => 638,  848 => 636,  838 => 629,  834 => 628,  829 => 626,  819 => 619,  815 => 618,  810 => 616,  800 => 609,  796 => 608,  791 => 606,  781 => 599,  777 => 598,  772 => 596,  762 => 589,  758 => 588,  753 => 586,  743 => 579,  739 => 578,  734 => 576,  719 => 564,  696 => 544,  680 => 531,  664 => 518,  648 => 505,  632 => 492,  616 => 479,  592 => 458,  581 => 450,  566 => 438,  497 => 372,  485 => 363,  473 => 354,  461 => 345,  449 => 336,  437 => 327,  431 => 324,  404 => 300,  383 => 282,  363 => 265,  343 => 248,  323 => 231,  310 => 220,  306 => 219,  252 => 168,  248 => 167,  244 => 166,  240 => 165,  236 => 164,  232 => 163,  205 => 139,  180 => 117,  169 => 109,  157 => 100,  138 => 84,  124 => 73,  105 => 57,  61 => 16,  44 => 1,);
     }
 
     public function getSourceContext(): Source
@@ -3018,7 +2905,7 @@ modal Area
                 <div class=\"about-logo\">
                     <a href=\"#\"><img style=\"height:56px;width:auto;\" src=\"{{\x27assets/img/life-voyage/loog.png\x27|theme }}\" alt=\"Life Voyage\"></a>
                 </div>
-                <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
+                <p class=\"about-text\">Votre partenaire de confiance pour tous vos voyages à travers le monde. Visa, billets d\x27avion, séjours, hôtels, véhicules et assurance : à Grand-Bassam, nous nous occupons de tout.</p>
                 <div class=\"th-social\">
                     <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
                     <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
@@ -3036,10 +2923,9 @@ modal Area
                     </div>
                     <div class=\"media-body\">
                         <div class=\"recent-post-meta\">
-                            <a href=\"blog.html\"><i class=\"far fa-calendar\"></i>24 Juin 2024</a>
+                            <a href=\"blog.html\"><i class=\"far fa-calendar\"></i>10 Septembre 2026</a>
                         </div>
-                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Quand la vision rencontre
-                            la réalité</a></h4>
+                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Visa Schengen : les documents à préparer</a></h4>
                     </div>
                 </div>
                 <div class=\"recent-post\">
@@ -3048,9 +2934,9 @@ modal Area
                     </div>
                     <div class=\"media-body\">
                         <div class=\"recent-post-meta\">
-                            <a href=\"#\"><i class=\"far fa-calendar\"></i>22 Juin 2024</a>
+                            <a href=\"#\"><i class=\"far fa-calendar\"></i>02 Septembre 2026</a>
                         </div>
-                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Placer la barre plus haut dans la construction.</a></h4>
+                        <h4 class=\"post-title\"><a class=\"text-inherit\" href=\"#\">Étudier au Canada : les étapes du visa étudiant</a></h4>
                     </div>
                 </div>
             </div>
@@ -3063,8 +2949,8 @@ modal Area
                         <img src=\"{{\x27assets/img/icon/phone.svg\x27 |theme }}\" alt=\"img\">
                     </div>
                     <div class=\"details\">
-                        <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                        <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
+                        <p><a href=\"tel:+2250757397423\" class=\"info-box_link\">+225 07 57 39 74 23</a></p>
+                        <p><a href=\"tel:+2250789152812\" class=\"info-box_link\">+225 07 89 15 28 12</a></p>
                     </div>
                 </div>
                 <div class=\"info-box_text\">
@@ -3072,14 +2958,14 @@ modal Area
                         <img src=\"{{\x27assets/img/icon/envelope.svg\x27|theme }}\" alt=\"img\">
                     </div>
                     <div class=\"details\">
-                        <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                        <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
+                        <p><a href=\"mailto:info@lifevoyagestourisme.com\" class=\"info-box_link\">info@lifevoyagestourisme.com</a></p>
+                        <p><a href=\"mailto:life.voyages.tourisme@gmail.com\" class=\"info-box_link\">life.voyages.tourisme@gmail.com</a></p>
                     </div>
                 </div>
                 <div class=\"info-box_text\">
                     <div class=\"icon\"><img src=\"{{\x27assets/img/icon/location-dot.svg\x27|theme }}\" alt=\"img\"></div>
                     <div class=\"details\">
-                        <p>789 Inner Lane, Holy park, California, USA</p>
+                        <p>Grand-Bassam, Mockeyville, Carrefour Femme Peulh 2</p>
                     </div>
                 </div>
             </div>
@@ -3089,7 +2975,7 @@ modal Area
 <div class=\"popup-search-box\">
     <button class=\"searchClose\"><i class=\"fal fa-times\"></i></button>
     <form action=\"#\">
-        <input type=\"text\" placeholder=\"Que recherchez-vous ?\">
+        <input type=\"text\" placeholder=\"Visa, billet d\x27avion, circuit…\">
         <button type=\"submit\"><i class=\"fal fa-search\"></i></button>
     </form>
 </div><!--==============================
@@ -3121,10 +3007,14 @@ modal Area
                     </ul>
                 </li>
                 <li class=\"menu-item-has-children\">
-                    <a href=\"#\">Service</a>
+                    <a href=\"#\">Nos services</a>
                     <ul class=\"sub-menu\">
-                        <li><a href=\"service.html\">Services</a></li>
-                        <li><a href=\"service-details.html\">Détails du service</a></li>
+                        <li><a href=\"{{ \x27accompagnement-visa\x27|page }}\">Accompagnement visa</a></li>
+                        <li><a href=\"{{ \x27billetterie-vols\x27|page }}\">Billetterie &amp; vols</a></li>
+                        <li><a href=\"{{ \x27tourisme\x27|page }}\">Tourisme national &amp; international</a></li>
+                        <li><a href=\"{{ \x27vehicules\x27|page }}\">Vente &amp; location de véhicules</a></li>
+                        <li><a href=\"{{ \x27hotels-residences\x27|page }}\">Hôtels &amp; résidences meublées</a></li>
+                        <li><a href=\"{{ \x27assurance-voyage\x27|page }}\">Assurance voyage</a></li>
                     </ul>
                 </li>
                 <li class=\"menu-item-has-children\">
@@ -3192,12 +3082,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Découvrez le monde avec notre guide
+                                Votre partenaire de confiance pour tous vos voyages
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Demander un visa</a>
                             </div>
                         </div>
                     </div>
@@ -3210,12 +3099,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Découvrez les meilleures destinations du monde
+                                Traitement rapide de vos dossiers visa
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Demander un visa</a>
                             </div>
                         </div>
                     </div>
@@ -3228,12 +3116,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Capturez les merveilles du monde
+                                Vos billets d\x27avion aux meilleurs tarifs
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Réserver un vol</a>
                             </div>
                         </div>
                     </div>
@@ -3246,12 +3133,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Explorez le monde avec Life Voyage
+                                Découvrez la Côte d\x27Ivoire et le monde
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Voir nos circuits</a>
                             </div>
                         </div>
                     </div>
@@ -3265,12 +3151,11 @@ Hero Area
                     <div class=\"container\">
                         <div class=\"hero-style3\">
                             <h1 class=\"hero-title\" data-ani=\"slideinleft\" data-ani-delay=\"0.2s\">
-                                Vivez l\x27expérience du voyage avec Life Voyage
+                                Voyagez l\x27esprit tranquille avec Life Voyages
                             </h1>
-                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Life Voyage, une compagnie internationale de gestion de voyages avec 25 ans
-                                d\x27expérience, spécialisée dans les voyages d\x27affaires et maritimes.</p>
+                            <p class=\"hero-text\" data-ani=\"slideinleft\" data-ani-delay=\"0.4s\">Voyagez sans stress, nous nous occupons de tout ! Visa, billet d\x27avion, assurance voyage : un seul interlocuteur pour préparer votre départ.</p>
                             <div class=\"btn-group\" data-ani=\"slideinup\" data-ani-delay=\"0.6s\">
-                                <a href=\"#\" class=\"th-btn style2 th-icon\">Explorer les circuits</a>
+                                <a href=\"#\" class=\"th-btn style2 th-icon\">Nous contacter</a>
                             </div>
                         </div>
                     </div>
@@ -3353,20 +3238,16 @@ Hero Area
                                         <div class=\"search-input\">
                                             <label>Destination</label>
                                             <select class=\" nice-select\" name=\"Destination\" id=\"Destination\">
-                                                <option value=\"Sélectionner une destination\" selected disabled>Sélectionner une destination
-                                                </option>
-                                                <option value=\"Australie\">Australie</option>
+                                                <option value=\"Sélectionner une destination\" selected disabled>Sélectionner une destination</option>
+                                                <option value=\"France / Espace Schengen\">France / Espace Schengen</option>
+                                                <option value=\"Royaume-Uni\">Royaume-Uni</option>
+                                                <option value=\"Canada\">Canada</option>
+                                                <option value=\"États-Unis\">États-Unis</option>
                                                 <option value=\"Dubaï\">Dubaï</option>
-                                                <option value=\"Angleterre\">Angleterre</option>
-                                                <option value=\"Suède\">Suède</option>
-                                                <option value=\"Thaïlande\">Thaïlande</option>
-                                                <option value=\"Égypte\">Égypte</option>
-                                                <option value=\"Arabie Saoudite\">Arabie Saoudite</option>
-                                                <option value=\"Suisse\">Suisse</option>
-                                                <option value=\"Scandinavie\">Scandinavie</option>
-                                                <option value=\"Europe de l\x27Ouest\">Europe de l\x27Ouest</option>
-                                                <option value=\"Indonésie\">Indonésie</option>
-                                                <option class=\"Italie\">Italie</option>
+                                                <option value=\"Maroc\">Maroc</option>
+                                                <option value=\"Afrique\">Afrique</option>
+                                                <option value=\"Asie\">Asie</option>
+                                                <option value=\"Côte d\x27Ivoire\">Côte d\x27Ivoire</option>
                                             </select>
                                         </div>
                                     </div>
@@ -3375,13 +3256,15 @@ Hero Area
                                             <i class=\"fa-regular fa-person-hiking\"></i>
                                         </div>
                                         <div class=\"search-input\">
-                                            <label>Type</label>
+                                            <label>Service</label>
                                             <select class=\" nice-select\" name=\"type\" id=\"type\">
-                                                <option value=\"Aventure\" selected disabled>Aventure</option>
-                                                <option value=\"Plage\">Plage</option>
-                                                <option value=\"Circuit de groupe\">Circuit de groupe</option>
-                                                <option value=\"Circuit en couple\">Circuit en couple</option>
-                                                <option value=\"Circuit en famille\">Circuit en famille</option>
+                                                <option value=\"Service\" selected disabled>Choisir un service</option>
+                                                <option value=\"Visa\">Visa</option>
+                                                <option value=\"Billet d\x27avion\">Billet d\x27avion</option>
+                                                <option value=\"Circuit touristique\">Circuit touristique</option>
+                                                <option value=\"Hôtel / résidence\">Hôtel / résidence</option>
+                                                <option value=\"Location de véhicule\">Location de véhicule</option>
+                                                <option value=\"Assurance voyage\">Assurance voyage</option>
                                             </select>
                                         </div>
                                     </div>
@@ -3390,21 +3273,18 @@ Hero Area
                                             <i class=\"fa-light fa-clock\"></i>
                                         </div>
                                         <div class=\"search-input\">
-                                            <label>Durée</label>
+                                            <label>Départ prévu</label>
                                             <select class=\"form-select nice-select\" name=\"Durée\" id=\"Durée\">
-                                                <option value=\"Normal\" selected disabled>Durée</option>
-                                                <option value=\"1\">1 jour</option>
-                                                <option value=\"2\">2 jours</option>
-                                                <option value=\"3\">3 jours</option>
-                                                <option value=\"4\">4 jours</option>
-                                                <option value=\"5\">5 jours</option>
-                                                <option value=\"6\">6 jours</option>
-                                                <option value=\"7\">7 jours</option>
+                                                <option value=\"Normal\" selected disabled>Quand partez-vous ?</option>
+                                                <option value=\"1\">Dans moins d\x27un mois</option>
+                                                <option value=\"2\">Dans 1 à 3 mois</option>
+                                                <option value=\"3\">Dans 3 à 6 mois</option>
+                                                <option value=\"4\">Date non fixée</option>
                                             </select>
                                         </div>
                                     </div>
                                     <div class=\"form-btn col-md-6 col-xl-auto\">
-                                        <button class=\"th-btn\"><img src=\"{{\x27assets/img/icon/search.svg\x27|theme}}\" alt=\"\">Rechercher</button>
+                                        <button class=\"th-btn\"><img src=\"{{\x27assets/img/icon/search.svg\x27|theme}}\" alt=\"\">Demander un devis</button>
                                     </div>
                                 </div>
                                 <p class=\"form-messages mb-0 mt-3\"></p>
@@ -3429,14 +3309,13 @@ Destination Area
         <div class=\"row justify-content-between\">
             <div class=\"col-lg-6\">
                 <div class=\"title-area\">
-                    <span class=\"sub-title\">Destination Populaire</span>
-                    <h2 class=\"sec-title\">Destinations Populaires</h2>
+                    <span class=\"sub-title\">Nos destinations visa</span>
+                    <h2 class=\"sec-title\">Où souhaitez-vous partir ?</h2>
                 </div>
             </div>
             <div class=\"col-lg-5\">
-                <h2 class=\"destination-title\"><span class=\"counter-number\">850</span>+ Destinations</h2>
-                <p class=\"sec-text mb-30\">Life Voyage est l\x27une des compagnies de voyage les plus appréciées par ceux qui souhaitent
-                    vivre l\x27aventure et découvrir le monde.</p>
+                <h2 class=\"destination-title\"><span class=\"counter-number\">6</span>+ destinations visa</h2>
+                <p class=\"sec-text mb-30\">Life Voyages &amp; Tourisme vous accompagne dans la constitution de votre dossier visa pour les destinations les plus demandées, avec un traitement rapide et un suivi personnalisé.</p>
 
             </div>
         </div>
@@ -3449,9 +3328,9 @@ Destination Area
                                 <img src=\"{{\x27assets/img/destination/destination_3_1.jpg\x27 | theme}}\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Dubaï, ÉAU</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">France / Espace Schengen</a></h3>
+                                <p class=\"destination-text\">Tourisme, études, affaires</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3462,9 +3341,9 @@ Destination Area
                                 <img src=\"{{\x27assets/img/destination/destination_3_2.jpg\x27 | theme}}\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Japon</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Canada</a></h3>
+                                <p class=\"destination-text\">Visa visiteur et études</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3475,9 +3354,9 @@ Destination Area
                                 <img src=\"{{\x27assets/img/destination/destination_3_3.jpg\x27 | theme}}\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Suisse</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Royaume-Uni</a></h3>
+                                <p class=\"destination-text\">Visa visiteur</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3488,9 +3367,9 @@ Destination Area
                                 <img src=\"{{\x27assets/img/destination/destination_3_4.jpg\x27| theme }}\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Brésil</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">États-Unis</a></h3>
+                                <p class=\"destination-text\">Visa touristique et études</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3502,8 +3381,8 @@ Destination Area
                             </div>
                             <div class=\"destination-content\">
                                 <h3 class=\"box-title\"><a href=\"destination-details.html\">Dubaï, ÉAU</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <p class=\"destination-text\">Visa touristique rapide</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3514,9 +3393,9 @@ Destination Area
                                 <img src=\"{{\x27assets/img/destination/destination_3_2.jpg\x27|theme }}\" alt=\"image\">
                             </div>
                             <div class=\"destination-content\">
-                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Japon</a></h3>
-                                <p class=\"destination-text\">25 offres</p>
-                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
+                                <h3 class=\"box-title\"><a href=\"destination-details.html\">Afrique &amp; Asie</a></h3>
+                                <p class=\"destination-text\">Maroc, Chine, Turquie…</p>
+                                <a href=\"destination-details.html\" class=\"th-btn style4 th-icon\">Constituer mon dossier</a>
                             </div>
                         </div>
                     </div>
@@ -3525,7 +3404,7 @@ Destination Area
             </div>
         </div>
         <div class=\"destination-btn text-center mt-60\">
-            <a href=\"#\" class=\"th-btn style3 th-icon\">Voir tout</a>
+            <a href=\"#\" class=\"th-btn style3 th-icon\">Voir tous nos services</a>
         </div>
     </div>
 </section><!--==============================
@@ -3534,8 +3413,8 @@ Category Area
 <section class=\"category-area3 bg-smoke space\" data-bg-src=\"{{\x27assets/img/bg/line-pattern3.png\x27|theme }}\">
     <div class=\"container th-container\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Un endroit merveilleux pour vous</span>
-            <h2 class=\"sec-title\">Catégories de circuits</h2>
+            <span class=\"sub-title\">Nos prestations</span>
+            <h2 class=\"sec-title\">Tout pour votre voyage, au même endroit</h2>
         </div>
         <div class=\"slider-area\">
             <div class=\"swiper th-slider has-shadow category-slider3\" id=\"categorySlider3\" data-slider-options=\x27{\"breakpoints\":{\"0\":{\"slidesPerView\":1},\"576\":{\"slidesPerView\":\"1\"},\"768\":{\"slidesPerView\":\"2\"},\"992\":{\"slidesPerView\":\"3\"},\"1200\":{\"slidesPerView\":\"3\"},\"1400\":{\"slidesPerView\":\"5\"}}}\x27>
@@ -3545,8 +3424,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_1.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Croisières</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27accompagnement-visa\x27|page }}\">Accompagnement visa</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27accompagnement-visa\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3555,8 +3434,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_2.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Randonnée</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27billetterie-vols\x27|page }}\">Billetterie &amp; vols</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27billetterie-vols\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3565,8 +3444,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_3.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Airbirds</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27tourisme\x27|page }}\">Tourisme national &amp; international</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27tourisme\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3575,8 +3454,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_4.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Faune sauvage</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27vehicules\x27|page }}\">Vente &amp; location de véhicules</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27vehicules\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3585,8 +3464,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_5.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Marche</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27hotels-residences\x27|page }}\">Hôtels &amp; résidences meublées</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27hotels-residences\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3595,8 +3474,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_1.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Croisières</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27assurance-voyage\x27|page }}\">Assurance voyage</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27assurance-voyage\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3605,8 +3484,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_2.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Randonnée</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27accompagnement-visa\x27|page }}\">Accompagnement visa</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27accompagnement-visa\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3615,8 +3494,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_3.jpg\x27|theme }}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Airbirds</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27billetterie-vols\x27|page }}\">Billetterie &amp; vols</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27billetterie-vols\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3625,8 +3504,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_4.jpg\x27 | theme}}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Faune sauvage</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27tourisme\x27|page }}\">Tourisme national &amp; international</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27tourisme\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3635,8 +3514,8 @@ Category Area
                             <div class=\"box-img global-img\">
                                 <img src=\"{{\x27assets/img/category/category_1_5.jpg\x27 | theme}}\" alt=\"Image\">
                             </div>
-                            <h3 class=\"box-title\"><a href=\"#\">Marche</a></h3>
-                            <a class=\"line-btn\" href=\"#\">Voir plus</a>
+                            <h3 class=\"box-title\"><a href=\"{{ \x27vehicules\x27|page }}\">Vente &amp; location de véhicules</a></h3>
+                            <a class=\"line-btn\" href=\"{{ \x27vehicules\x27|page }}\">Voir plus</a>
                         </div>
                     </div>
 
@@ -3670,32 +3549,30 @@ About Area
             <div class=\"col-xl-5\">
                 <div class=\"ps-xl-4\">
                     <div class=\"title-area mb-20 pe-xxl-5 me-xxl-5\">
-                        <span class=\"sub-title style1 \">Partons Ensemble</span>
-                        <h2 class=\"sec-title mb-20 pe-xl-5 me-xl-5 heading\">Planifiez votre voyage avec nous</h2>
+                        <span class=\"sub-title style1 \">Pourquoi nous choisir</span>
+                        <h2 class=\"sec-title mb-20 pe-xl-5 me-xl-5 heading\">Voyagez sans stress, on s\x27occupe de tout</h2>
                     </div>
-                    <p class=\"sec-text mb-30\">Il existe de nombreuses variantes de passages disponibles, mais la majorité a subi une altération sous une forme ou une autre, par l\x27injection de mots générés aléatoirement.</p>
+                    <p class=\"sec-text mb-30\">Basée à Grand-Bassam, Life Voyages &amp; Tourisme accompagne particuliers, familles et entreprises dans tous leurs projets de voyage. Grâce à notre réseau partenaire international, nous vous proposons des solutions fiables, adaptées à votre budget.</p>
                     <div class=\"about-item-wrap\">
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"{{\x27assets/img/icon/about_1_1.svg\x27 | theme}}\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">Voyage Exclusif</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la
-                                    majorité.</p>
+                                <h5 class=\"box-title\">Service rapide et professionnel</h5>
+                                <p class=\"about-item_text\">Traitement rapide des dossiers visa et réponse le jour même sur WhatsApp.</p>
                             </div>
                         </div>
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"{{\x27assets/img/icon/about_1_2.svg\x27 | theme}}\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">La Sécurité Avant Tout</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la majorité.</p>
+                                <h5 class=\"box-title\">Sécurité et confidentialité</h5>
+                                <p class=\"about-item_text\">Vos documents personnels sont traités avec soin et restent strictement confidentiels.</p>
                             </div>
                         </div>
                         <div class=\"about-item style2\">
                             <div class=\"about-item_img\"><img src=\"{{\x27assets/img/icon/about_1_3.svg\x27 | theme}}\" alt=\"\"></div>
                             <div class=\"about-item_centent\">
-                                <h5 class=\"box-title\">Guide Professionnel</h5>
-                                <p class=\"about-item_text\">Il existe de nombreuses variantes de passages disponibles, mais la
-                                    majorité.</p>
+                                <h5 class=\"box-title\">Accompagnement personnalisé</h5>
+                                <p class=\"about-item_text\">Un conseiller suit votre dossier et vous explique chaque étape, jusqu\x27à votre départ.</p>
                             </div>
                         </div>
                     </div>
@@ -3733,15 +3610,15 @@ Service Area
         <div class=\"row justify-content-center\">
             <div class=\"col-lg-8\">
                 <div class=\"title-area text-center\">
-                    <span class=\"sub-title\">Meilleure Expérience</span>
-                    <h2 class=\"sec-title\">Une Expérience de Voyage Incroyable</h2>
+                    <span class=\"sub-title\">Nos offres</span>
+                    <h2 class=\"sec-title\">Circuits, hôtels et véhicules</h2>
                 </div>
             </div>
         </div>
         <div class=\"nav nav-tabs tour-tabs\" id=\"nav-tab\" role=\"tablist\">
-            <button class=\"nav-link th-btn active\" id=\"nav-step1-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step1\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_1.svg\x27 | theme}}\" alt=\"\">Forfait Circuit</button>
-            <button class=\"nav-link th-btn\" id=\"nav-step2-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step2\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_2.svg\x27 | theme}}\" alt=\"\">Hotel</button>
-            <button class=\"nav-link th-btn\" id=\"nav-step3-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step3\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_3.svg\x27 | theme}}\" alt=\"\">Transport</button>
+            <button class=\"nav-link th-btn active\" id=\"nav-step1-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step1\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_1.svg\x27 | theme}}\" alt=\"\">Circuits</button>
+            <button class=\"nav-link th-btn\" id=\"nav-step2-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step2\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_2.svg\x27 | theme}}\" alt=\"\">Hôtels</button>
+            <button class=\"nav-link th-btn\" id=\"nav-step3-tab\" data-bs-toggle=\"tab\" data-bs-target=\"#nav-step3\" type=\"button\"><img src=\"{{\x27assets/img/icon/tour_icon_3.svg\x27 | theme}}\" alt=\"\">Véhicules</button>
         </div>
 
         <div class=\"tab-content\" id=\"nav-tabContent\">
@@ -3755,7 +3632,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_1.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Greece Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Grand-Bassam historique</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3763,9 +3640,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>1 Jour</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3778,7 +3655,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_2.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Italie Tour package</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Week-end à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3786,9 +3663,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3801,7 +3678,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_3.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Dubaï Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Yamoussoukro, la capitale</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3809,9 +3686,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3824,7 +3701,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_4.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Suisse</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Man et ses cascades</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3832,9 +3709,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>3 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3847,7 +3724,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_1.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Greece Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Grand-Bassam historique</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3855,9 +3732,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>1 Jour</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3870,7 +3747,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_2.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Italie Tour package</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Week-end à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3878,9 +3755,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3893,7 +3770,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_3.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Dubaï Forfait Circuit</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Yamoussoukro, la capitale</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3901,9 +3778,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>2 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3916,7 +3793,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_4.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Suisse</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Man et ses cascades</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3924,9 +3801,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Personne</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>3 Jours</span>
                                             <a href=\"tour-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3951,7 +3828,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_5.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Plaza, New York</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Grand-Bassam</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3959,9 +3836,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3974,7 +3851,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_6.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hotel Ritz Paris</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Résidence meublée à Abidjan</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -3982,9 +3859,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$970.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -3997,7 +3874,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_7.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Claridge’s, London</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Dubaï</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4005,9 +3882,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$960.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4020,7 +3897,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_8.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Taj Mahal Palace, India</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Paris</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4028,9 +3905,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$940.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4043,7 +3920,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_9.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Peninsula Hong Kong</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Assinie</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4051,9 +3928,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$970.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4066,7 +3943,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_10.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Ritz Hotel London</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Résidence meublée à Grand-Bassam</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4074,9 +3951,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$940.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4089,7 +3966,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_11.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">The Shelbourne Hotel, Dublin</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Casablanca</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4097,9 +3974,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$990.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4112,7 +3989,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_12.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Beverly Hills Hotel</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Hôtel à Yamoussoukro</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4120,9 +3997,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$950.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Nuit</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Par nuit</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4146,7 +4023,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_13.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Caravane</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Citadine</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4154,9 +4031,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4169,7 +4046,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_14.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Bus Couchette </a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">SUV &amp; 4x4</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4177,9 +4054,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4192,7 +4069,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_15.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Train</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Véhicule premium</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4200,9 +4077,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4215,7 +4092,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_16.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Avion</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Achat de véhicule</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4223,9 +4100,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">Sur devis</span></h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Vente sur devis</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4238,7 +4115,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_17.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Transport en Croisière</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Location longue durée</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4246,9 +4123,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Mois</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4261,7 +4138,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_18.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Avion</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Achat de véhicule</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4269,9 +4146,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">Sur devis</span></h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Vente sur devis</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4284,7 +4161,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_19.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Bus Couchette </a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">SUV &amp; 4x4</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4292,9 +4169,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4307,7 +4184,7 @@ Service Area
                                         <img src=\"{{\x27assets/img/tour/tour_box_20.jpg\x27 | theme}}\" alt=\"image\">
                                     </div>
                                     <div class=\"tour-content\">
-                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Forfait Voyage en Train</a></h3>
+                                        <h3 class=\"box-title\"><a href=\"tour-details.html\">Véhicule premium</a></h3>
                                         <div class=\"tour-rating\">
                                             <div class=\"star-rating\" role=\"img\" aria-label=\"Noté 5,00 sur 5\"><span style=\"width:100%\">Noté
                                                         <strong class=\"rating\">5.00</strong> sur 5 basé sur <span class=\"rating\">4.8</span>(4.8
@@ -4315,9 +4192,9 @@ Service Area
                                             <a href=\"tour-details.html\" class=\"woocommerce-review-link\">(<span class=\"count\">4.8</span>
                                                 avis)</a>
                                         </div>
-                                        <h4 class=\"tour-box_price\"><span class=\"currency\">\$980.00</span>/Personne</h4>
+                                        <h4 class=\"tour-box_price\"><span class=\"currency\">XX XXX FCFA</span>/Jour</h4>
                                         <div class=\"tour-action\">
-                                            <span><i class=\"fa-light fa-clock\"></i>7 Jours</span>
+                                            <span><i class=\"fa-light fa-clock\"></i>Courte ou longue durée</span>
                                             <a href=\"tour-guider-details.html\" class=\"th-btn style4 th-icon\">Réserver</a>
                                         </div>
                                     </div>
@@ -4339,8 +4216,8 @@ Galerie Area
 <div class=\"overflow-hidden space-bottom\">
     <div class=\"container\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Rendez votre circuit plus agréable</span>
-            <h2 class=\"sec-title\">Recent Galerie</h2>
+            <span class=\"sub-title\">Ils ont voyagé avec nous</span>
+            <h2 class=\"sec-title\">Nos voyageurs en images</h2>
         </div>
         <div class=\"row gy-24 gx-24 justify-content-center\">
             <div class=\"col-lg-3\">
@@ -4465,8 +4342,8 @@ Team Area
 <section class=\"team-area3 position-relative bg-top-center space\" data-bg-src=\"assets/img/bg/team_bg_2.jpg\">
     <div class=\"container z-index-common\">
         <div class=\"title-area text-center\">
-            <span class=\"sub-title\">Rencontrez nos guides</span>
-            <h2 class=\"sec-title\">Rencontrez le guide touristique</h2>
+            <span class=\"sub-title\">Notre équipe</span>
+            <h2 class=\"sec-title\">Vos conseillers voyage</h2>
         </div>
         <div class=\"slider-area\">
             <div class=\"swiper th-slider teamSlider3 has-shadow\" id=\"teamSlider3\" data-slider-options=\x27{\"breakpoints\":{\"0\":{\"slidesPerView\":1},\"576\":{\"slidesPerView\":\"1\"},\"768\":{\"slidesPerView\":\"2\"},\"992\":{\"slidesPerView\":\"3\"},\"1200\":{\"slidesPerView\":\"3\"}}}\x27>
@@ -4482,8 +4359,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Michel Smith</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Directeur(trice)</span>
 
 
                                     <div class=\"th-social\">
@@ -4509,8 +4386,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Janny Willson</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Conseiller(ère) visa</span>
 
 
                                     <div class=\"th-social\">
@@ -4536,8 +4413,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Jacob Jones</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Billetterie</span>
 
 
                                     <div class=\"th-social\">
@@ -4563,8 +4440,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Maria Prova</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Tourisme &amp; circuits</span>
 
 
                                     <div class=\"th-social\">
@@ -4590,8 +4467,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Rebeka Maliha</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Location de véhicules</span>
 
 
                                     <div class=\"th-social\">
@@ -4617,8 +4494,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Alif Mahmud</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Service client</span>
 
 
                                     <div class=\"th-social\">
@@ -4644,8 +4521,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Guy Hawkins</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Conseiller(ère) visa</span>
 
 
                                     <div class=\"th-social\">
@@ -4671,8 +4548,8 @@ Team Area
                             </div>
                             <div class=\"team-content\">
                                 <div class=\"media-body\">
-                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">Jenny Wilson</a></h3>
-                                    <span class=\"team-desig\">Guide touristique</span>
+                                    <h3 class=\"box-title\"><a href=\"tour-guider-details.html\">[Nom Prénom]</a></h3>
+                                    <span class=\"team-desig\">Billetterie</span>
 
 
                                     <div class=\"th-social\">
@@ -4713,8 +4590,8 @@ Contact Area
                 <div class=\"pt-80 p-lg-0\">
                     <div class=\"title-area pe-xl-5\">
                         <span class=\"sub-title text-white\">Contactez-nous</span>
-                        <h2 class=\"sec-title text-white\">Dites-nous bonjour</h2>
-                        <p class=\"contact-text text-white\">Nous serions ravis d\x27avoir de vos nouvelles. Notre équipe sympathique est toujours là pour discuter</p>
+                        <h2 class=\"sec-title text-white\">Demandez votre devis</h2>
+                        <p class=\"contact-text text-white\">Demandez votre visa, billet d\x27avion ou assurance voyage dès aujourd\x27hui ! Notre équipe vous répond rapidement.</p>
                     </div>
                 </div>
             </div>
@@ -4723,7 +4600,7 @@ Contact Area
                     <form action=\"mail.php\" method=\"POST\" class=\"contact-form2 ajax-contact\">
                         <div class=\"row\">
                             <div class=\"form-group col-12\">
-                                <input type=\"text\" class=\"form-control\" name=\"name\" id=\"name3\" placeholder=\"Prénom\">
+                                <input type=\"text\" class=\"form-control\" name=\"name\" id=\"name3\" placeholder=\"Nom et prénom\">
                                 <img src=\"{{\x27assets/img/icon/user.svg\x27 | theme}}\" alt=\"\">
                             </div>
                             <div class=\"form-group col-12\">
@@ -4732,12 +4609,13 @@ Contact Area
                             </div>
                             <div class=\"form-group col-12\">
                                 <select name=\"subject\" id=\"subject\" class=\"form-select nice-select\">
-                                    <option value=\"Sélectionnez un type de circuit\" selected disabled>Sélectionnez un type de circuit</option>
-                                    <option value=\"Aventure en Afrique\">Aventure en Afrique</option>
-                                    <option value=\"Afrique Sauvage\">Afrique Sauvage</option>
-                                    <option value=\"Asie\">Asie</option>
-                                    <option value=\"Scandinavie\">Scandinavie</option>
-                                    <option value=\"Europe de l\x27Ouest\">Europe de l\x27Ouest</option>
+                                    <option value=\"Service concerné\" selected disabled>Service concerné</option>
+                                    <option value=\"Accompagnement visa\">Accompagnement visa</option>
+                                    <option value=\"Billetterie / vols\">Billetterie / vols</option>
+                                    <option value=\"Tourisme\">Tourisme</option>
+                                    <option value=\"Véhicules\">Véhicules</option>
+                                    <option value=\"Hôtels &amp; résidences\">Hôtels &amp; résidences</option>
+                                    <option value=\"Assurance voyage\">Assurance voyage</option>
                                 </select>
                             </div>
                             <div class=\"form-group col-12\">
@@ -4749,12 +4627,12 @@ Contact Area
                     </form>
                     <div class=\"form-btn-wrapp\">
                         <div class=\"form-btn\">
-                            <button class=\"th-btn white-btn\">Envoyer le message <img src=\"{{\x27assets/img/icon/plane3.svg\x27 | theme}}\" alt=\"\"></button>
+                            <button class=\"th-btn white-btn\">Envoyer ma demande <img src=\"{{\x27assets/img/icon/plane3.svg\x27 | theme}}\" alt=\"\"></button>
                         </div>
                         <div class=\"contact-info\">
-                            <p class=\"contact-info_link\"><a href=\"tel:+0123456789\">+012 345 6789</a></p>
+                            <p class=\"contact-info_link\"><a href=\"tel:+2250757397423\">+225 07 57 39 74 23</a></p>
                             <div class=\"contact-info_icon\">
-                                <a href=\"tel:+0123456789\"><img src=\"{{\x27assets/img/icon/call.svg\x27 | theme}}\" alt=\"\"></a>
+                                <a href=\"tel:+2250757397423\"><img src=\"{{\x27assets/img/icon/call.svg\x27 | theme}}\" alt=\"\"></a>
                             </div>
                         </div>
                     </div>
@@ -4769,7 +4647,7 @@ Testimonial Area
     <div class=\"container\">
         <div class=\"title-area text-center\">
             <span class=\"sub-title\">Témoignages</span>
-            <h2 class=\"sec-title\">Avis de nos clients</h2>
+            <h2 class=\"sec-title\">Ce que disent nos clients</h2>
         </div>
         <div class=\"row justify-content-center\">
             <div class=\"col-xl-12\">
@@ -4781,9 +4659,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_1.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Un foyer qui allie parfaitement durabilité et luxe, jusqu\x27à ce que je découvre Ecoland Residence. Dès que j\x27ai posé le pied dans cette communauté, j\x27ai su que c\x27était là où je voulais vivre.”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Andrew Simon</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Dossier Schengen préparé avec beaucoup de rigueur. On m\x27a expliqué chaque document, je me suis sentie accompagnée du début à la fin.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Visa France</span>
 
                                 </div>
 
@@ -4795,9 +4673,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_2.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Cette maison affiche une architecture élégante et contemporaine, avec des lignes épurées et de larges fenêtres laissant la lumière naturelle inonder l\x27intérieur. Elle intègre des principes de conception passive”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Maria Doe</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Billet Abidjan – Dubaï trouvé à un très bon prix, et réponse rapide sur WhatsApp. Je recommande.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Billet d\x27avion</span>
 
                                 </div>
 
@@ -4809,9 +4687,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_3.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Des panneaux solaires ornent le toit, exploitant l\x27énergie renouvelable pour alimenter la maison et même réinjecter l\x27électricité excédentaire dans le réseau. Une isolation haute performance et du triple vitrage”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Angelina Rose</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Pour mon visa étudiant, l\x27équipe m\x27a guidé étape par étape. Un vrai soutien pour ma famille et moi.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Visa étudiant Canada</span>
 
                                 </div>
 
@@ -4823,9 +4701,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_4.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">Un système sophistiqué de récupération des eaux de pluie collecte et filtre l\x27eau pour l\x27irrigation et les usages non potables, réduisant la dépendance aux sources d\x27eau municipales. Les systèmes d\x27eaux grises</p>
-                                    <h6 class=\"testi-grid_name box-title\">Michel Carlos</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Location d\x27un 4x4 pour un voyage à Man : véhicule propre, livré à l\x27heure, prix respecté.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Location véhicule</span>
 
                                 </div>
 
@@ -4837,9 +4715,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_5.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">Dans tout l\x27intérieur, des matériaux écologiques comme le bois récupéré, les sols en bambou et les plans de travail en verre recyclé créent une ambiance luxueuse et durable.</p>
-                                    <h6 class=\"testi-grid_name box-title\">Michel Smith</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Week-end à Assinie parfaitement organisé pour notre famille. Nous n\x27avions rien à gérer.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Circuit Assinie</span>
 
                                 </div>
 
@@ -4851,9 +4729,9 @@ Testimonial Area
                                     <img src=\"{{\x27assets/img/testimonial/testi_3_6.png\x27 | theme}}\" alt=\"Avater\">
                                 </div>
                                 <div class=\"testi-grid_content\">
-                                    <p class=\"testi-grid_text\">“Un foyer qui allie parfaitement durabilité et luxe, jusqu\x27à ce que je découvre Ecoland Residence. Dès que j\x27ai posé le pied dans cette communauté, j\x27ai su que c\x27était là où je voulais vivre.”</p>
-                                    <h6 class=\"testi-grid_name box-title\">Jesmen</h6>
-                                    <span class=\"testi-grid_desig\">Voyageur</span>
+                                    <p class=\"testi-grid_text\">“Assurance voyage souscrite en quelques minutes, avec l\x27attestation demandée pour mon visa. Service sérieux.”</p>
+                                    <h6 class=\"testi-grid_name box-title\">[Prénom N.]</h6>
+                                    <span class=\"testi-grid_desig\">Assurance voyage</span>
 
                                 </div>
 
@@ -5026,14 +4904,14 @@ Blog Area
         <div class=\"row justify-content-lg-between justify-content-center align-items-end\">
             <div class=\"col-lg\">
                 <div class=\"title-area text-center text-lg-start\">
-                    <span class=\"sub-title\">Blog et Articles</span>
-                    <h2 class=\"sec-title\">Blog et Articles de Life Voyage</h2>
+                    <span class=\"sub-title\">Conseils voyage</span>
+                    <h2 class=\"sec-title\">Nos conseils pour bien voyager</h2>
 
                 </div>
             </div>
             <div class=\"col-lg-auto d-none d-lg-block\">
                 <div class=\"sec-btn\">
-                    <a href=\"blog.html\" class=\"th-btn style4 th-icon\">Voir plus d\x27articles</a>
+                    <a href=\"blog.html\" class=\"th-btn style4 th-icon\">Voir tous les conseils</a>
                 </div>
             </div>
         </div>
@@ -5045,11 +4923,10 @@ Blog Area
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">05 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">10 Septembre 2026</a>
                             <a href=\"blog.html\">6 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Une agence de voyage pour ceux qui veulent explorer
-                            le monde et vivre l\x27aventure</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Visa Schengen depuis la Côte d\x27Ivoire : les documents à préparer</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
@@ -5061,12 +4938,10 @@ Blog Area
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">07 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">02 Septembre 2026</a>
                             <a href=\"blog.html\">7 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Le meilleur moment pour visiter le Japon et profiter
-                            des
-                            cerisiers en fleurs</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Étudier au Canada : les étapes du visa étudiant</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
@@ -5076,11 +4951,10 @@ Blog Area
                     </div>
                     <div class=\"blog-grid_content\">
                         <div class=\"blog-meta\">
-                            <a class=\"author\" href=\"blog.html\">10 Juillet 2024</a>
+                            <a class=\"author\" href=\"blog.html\">25 Août 2026</a>
                             <a href=\"blog.html\">8 min de lecture</a>
                         </div>
-                        <h3 class=\"box-title\"><a href=\"blog-details.html\">L\x27histoire cachée du Japon et l\x27envie de
-                            vivre l\x27aventure</a></h3>
+                        <h3 class=\"box-title\"><a href=\"blog-details.html\">Assurance voyage : pourquoi est-elle indispensable ?</a></h3>
                         <a href=\"blog-details.html\" class=\"th-btn style4 th-icon\">Lire la suite</a>
                     </div>
                 </div>
@@ -5101,146 +4975,7 @@ Blog Area
     </div>
 </section><!--==============================
 \tFooter Area
-==============================-->
-<footer class=\"footer-wrapper bg-title footer-layout2\">
-    <div class=\"widget-area\">
-        <div class=\"container\">
-            <div class=\"newsletter-area\">
-                <div class=\"newsletter-top\">
-                    <div class=\"row gy-4 align-items-center\">
-                        <div class=\"col-lg-5\">
-                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">recevez notre dernière
-                                newsletter</h2>
-                        </div>
-                        <div class=\"col-lg-7\">
-                            <form class=\"newsletter-form style2\">
-                                <input class=\"form-control \" type=\"email\" placeholder=\"Entrez votre email\" required=\"\">
-                                <button type=\"submit\" class=\"th-btn style1\">S\x27abonner <img src=\"{{\x27assets/img/icon/plane2.svg\x27 | theme}}\" alt=\"\"></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=\"row justify-content-between\">
-                <div class=\"col-md-6 col-xl-3\">
-                    <div class=\"widget footer-widget\">
-                        <div class=\"th-widget-about\">
-                            <div class=\"about-logo\">
-                                <a href=\"home-travel.html\"><img style=\"height:56px;width:auto;\" src=\"{{\x27assets/img/life-voyage/loog.png\x27 | theme}}\" alt=\"Life Voyage\"></a>
-                            </div>
-                            <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
-                            <div class=\"th-social\">
-                                <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
-                                <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
-                                <a href=\"https://www.linkedin.com/\"><i class=\"fab fa-linkedin-in\"></i></a>
-                                <a href=\"https://www.whatsapp.com/\"><i class=\"fab fa-whatsapp\"></i></a>
-                                <a href=\"https://instagram.com/\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget widget_nav_menu footer-widget\">
-                        <h3 class=\"widget_title\">Liens rapides</h3>
-                        <div class=\"menu-all-pages-container\">
-                            <ul class=\"menu\">
 
-                                <li><a href=\"index.html\">Accueil</a></li>
-                                <li><a href=\"about.html\">À propos de nous</a></li>
-                                <li><a href=\"service.html\">Nos Services</a></li>
-                                <li><a href=\"contact.html\">Conditions d\x27utilisation</a></li>
-                                <li><a href=\"contact.html\">Réserver un circuit</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Contactez-nous</h3>
-                        <div class=\"th-widget-contact\">
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\">
-                                    <img src=\"{{\x27assets/img/icon/phone.svg\x27 | theme}}\" alt=\"img\">
-                                </div>
-                                <div class=\"details\">
-                                    <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                                    <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
-                                </div>
-                            </div>
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\">
-                                    <img src=\"{{\x27assets/img/icon/envelope.svg\x27 | theme}}\" alt=\"img\">
-                                </div>
-                                <div class=\"details\">
-                                    <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                                    <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
-                                </div>
-                            </div>
-                            <div class=\"info-box_text\">
-                                <div class=\"icon\"><img src=\"{{\x27assets/img/icon/location-dot.svg\x27 | theme}}\" alt=\"img\"></div>
-                                <div class=\"details\">
-                                    <p>789 Inner Lane, Holy park, California, USA</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"col-md-6 col-xl-auto\">
-                    <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Publications Instagram</h3>
-                        <div class=\"sidebar-gallery\">
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_1.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_2.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_3.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_4.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_5.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                            <div class=\"gallery-thumb\">
-                                <img src=\"{{\x27assets/img/widget/gallery_1_6.jpg\x27 | theme}}\" alt=\"Galerie Image\">
-                                <a target=\"_blank\" href=\"https://www.instagram.com/\" class=\"gallery-btn\"><i class=\"fab fa-instagram\"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class=\"copyright-wrap\">
-        <div class=\"container\">
-            <div class=\"row justify-content-between align-items-center\">
-                <div class=\"col-md-6\">
-                    <p class=\"copyright-text\">Copyright 2024 <a href=\"home-travel.html\">Life Voyage</a>. Tous droits réservés.</p>
-                </div>
-                <div class=\"col-md-6 text-end d-none d-md-block\">
-                    <div class=\"footer-card\">
-                        <span class=\"title\">Nous acceptons</span>
-                        <img src=\"{{\x27assets/img/shape/cards.png\x27 | theme}}\" alt=\"\">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <div class=\"shape-mockup movingX d-none d-xxl-block\" data-top=\"24%\" data-left=\"5%\">
-        <img src=\"{{\x27assets/img/shape/shape_8.png\x27 | theme}}\" alt=\"shape\">
-    </div>
-</footer>
-
-<!--********************************
         Code End  Here
 ******************************** -->
 
@@ -5337,15 +5072,15 @@ modal Area
     
     public function checkSecurity()
     {
-        static $tags = ["partial" => 216];
-        static $filters = ["theme" => 16];
+        static $tags = ["partial" => 219];
+        static $filters = ["theme" => 16, "page" => 163];
         static $functions = [];
         static $tests = [];
 
         try {
             $this->sandbox->checkSecurity(
                 [0 => "partial"],
-                [0 => "theme"],
+                [0 => "theme", 1 => "page"],
                 [],
                 [],
                 $this->source

@@ -47,10 +47,10 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 <head>
     <meta charset=\"utf-8\">
     <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">
-    <title>Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits - Accueil Agence</title>
-    <meta name=\"author\" content=\"Life Voyage\">
-    <meta name=\"description\" content=\"Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits \">
-    <meta name=\"keywords\" content=\"Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits \">
+    <title>Life Voyages &amp; Tourisme | Agence de voyage à Grand-Bassam : visa, billets d\x27avion</title>
+    <meta name=\"author\" content=\"Life Voyages &amp; Tourisme\">
+    <meta name=\"description\" content=\"Agence de voyage à Grand-Bassam : accompagnement visa (France, Canada, USA, UK, Dubaï), billets d\x27avion, circuits, hôtels, véhicules et assurance voyage.\">
+    <meta name=\"keywords\" content=\"agence de voyage Grand-Bassam, visa Côte d\x27Ivoire, billet d\x27avion Abidjan, visa Schengen, assurance voyage, location de véhicule\">
     <meta name=\"robots\" content=\"INDEX,FOLLOW\">
 
     <!-- Mobile Specific Metas -->
@@ -158,6 +158,10 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
         // line 57
         yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/css/style.css"), 57, $this->source);
         yield "\">
+    <link rel=\"stylesheet\" href=\"";
+        // line 58
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/css/custom.css"), 58, $this->source);
+        yield "\">
 
 </head>
 
@@ -176,8 +180,8 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 <div id=\"preloader\" class=\"preloader \">
     <div class=\"preloader-inner\">
         <img style=\"height:56px;width:auto;\" src=\"";
-        // line 75
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 75, $this->source);
+        // line 76
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 76, $this->source);
         yield "\" alt=\"Life Voyage\">
     </div>
 
@@ -214,23 +218,23 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 
 <div class=\"page-wrapper\">
     ";
-        // line 110
+        // line 111
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 111
-        yield "
-    ";
         // line 112
-        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
-        // line 113
         yield "
     ";
+        // line 113
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
         // line 114
+        yield "
+    ";
+        // line 115
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 115
+        // line 116
         yield "</div>
 
 
@@ -243,77 +247,83 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 </div>
 
 <script src=\"";
-        // line 126
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/jquery-3.6.0.min.js"), 126, $this->source);
+        // line 127
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/jquery-3.6.0.min.js"), 127, $this->source);
         yield "\"></script>
 <!-- Swiper Js -->
 <script src=\"";
-        // line 128
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/swiper-bundle.min.js"), 128, $this->source);
+        // line 129
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/swiper-bundle.min.js"), 129, $this->source);
         yield "\"></script>
 <!-- Bootstrap -->
 <script src=\"";
-        // line 130
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/bootstrap.min.js"), 130, $this->source);
+        // line 131
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/bootstrap.min.js"), 131, $this->source);
         yield "\"></script>
 <!-- Magnific Popup -->
 <script src=\"";
-        // line 132
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.magnific-popup.min.js"), 132, $this->source);
+        // line 133
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.magnific-popup.min.js"), 133, $this->source);
         yield "\"></script>
 <!-- Counter Up -->
 <script src=\"";
-        // line 134
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.counterup.min.js"), 134, $this->source);
+        // line 135
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.counterup.min.js"), 135, $this->source);
         yield "\"></script>
 <!-- Range Slider -->
 <script src=\"";
-        // line 136
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery-ui.min.js"), 136, $this->source);
+        // line 137
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery-ui.min.js"), 137, $this->source);
         yield "\"></script>
 <!-- imagesloaded -->
 <script src=\"";
-        // line 138
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/imagesloaded.pkgd.min.js"), 138, $this->source);
+        // line 139
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/imagesloaded.pkgd.min.js"), 139, $this->source);
         yield "\"></script>
 <!-- isotope -->
 <script src=\"";
-        // line 140
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/isotope.pkgd.min.js"), 140, $this->source);
+        // line 141
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/isotope.pkgd.min.js"), 141, $this->source);
         yield "\"></script>
 <!-- gsap -->
 <script src=\"";
-        // line 142
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/gsap.min.js"), 142, $this->source);
+        // line 143
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/gsap.min.js"), 143, $this->source);
         yield "\"></script>
 
 <!-- circle-progress -->
 <script src=\"";
-        // line 145
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/circle-progress.js"), 145, $this->source);
+        // line 146
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/circle-progress.js"), 146, $this->source);
         yield "\"></script>
 
-<script src=\"";
-        // line 147
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/matter.min.js"), 147, $this->source);
-        yield "\"></script>
-<script src=\"";
+";
         // line 148
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/matterjs-custom.js"), 148, $this->source);
-        yield "\"></script>
-
+        if (($this->sandbox->ensureToStringAllowed(CoreExtension::getAttribute($this->env, $this->source, CoreExtension::getAttribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 148), "id", [], "any", false, false, true, 148), 148, $this->source) == "accueil")) {
+            // line 149
+            yield "<script src=\"";
+            yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/matter.min.js"), 149, $this->source);
+            yield "\"></script>
+<script src=\"";
+            // line 150
+            yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/matterjs-custom.js"), 150, $this->source);
+            yield "\"></script>
+";
+        }
+        // line 152
+        yield "
 
 <!-- nice select -->
 <script src=\"";
-        // line 152
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/nice-select.min.js"), 152, $this->source);
+        // line 155
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/nice-select.min.js"), 155, $this->source);
         yield "\"></script>
 
 
 <!-- Main Js File -->
 <script src=\"";
-        // line 156
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/main.js"), 156, $this->source);
+        // line 159
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/main.js"), 159, $this->source);
         yield "\"></script>
 </body>
 
@@ -342,7 +352,7 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  316 => 156,  309 => 152,  302 => 148,  298 => 147,  293 => 145,  287 => 142,  282 => 140,  277 => 138,  272 => 136,  267 => 134,  262 => 132,  257 => 130,  252 => 128,  247 => 126,  234 => 115,  230 => 114,  227 => 113,  225 => 112,  222 => 111,  218 => 110,  180 => 75,  159 => 57,  154 => 55,  148 => 52,  143 => 50,  138 => 48,  119 => 32,  114 => 30,  110 => 29,  106 => 28,  102 => 27,  98 => 26,  94 => 25,  90 => 24,  86 => 23,  82 => 22,  78 => 21,  74 => 20,  70 => 19,  66 => 18,  62 => 17,  44 => 1,);
+        return array (  326 => 159,  319 => 155,  314 => 152,  309 => 150,  304 => 149,  302 => 148,  297 => 146,  291 => 143,  286 => 141,  281 => 139,  276 => 137,  271 => 135,  266 => 133,  261 => 131,  256 => 129,  251 => 127,  238 => 116,  234 => 115,  231 => 114,  229 => 113,  226 => 112,  222 => 111,  184 => 76,  163 => 58,  159 => 57,  154 => 55,  148 => 52,  143 => 50,  138 => 48,  119 => 32,  114 => 30,  110 => 29,  106 => 28,  102 => 27,  98 => 26,  94 => 25,  90 => 24,  86 => 23,  82 => 22,  78 => 21,  74 => 20,  70 => 19,  66 => 18,  62 => 17,  44 => 1,);
     }
 
     public function getSourceContext(): Source
@@ -353,10 +363,10 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 <head>
     <meta charset=\"utf-8\">
     <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">
-    <title>Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits - Accueil Agence</title>
-    <meta name=\"author\" content=\"Life Voyage\">
-    <meta name=\"description\" content=\"Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits \">
-    <meta name=\"keywords\" content=\"Life Voyage - Modèle HTML d\x27Agence de Voyage et de Réservation de Circuits \">
+    <title>Life Voyages &amp; Tourisme | Agence de voyage à Grand-Bassam : visa, billets d\x27avion</title>
+    <meta name=\"author\" content=\"Life Voyages &amp; Tourisme\">
+    <meta name=\"description\" content=\"Agence de voyage à Grand-Bassam : accompagnement visa (France, Canada, USA, UK, Dubaï), billets d\x27avion, circuits, hôtels, véhicules et assurance voyage.\">
+    <meta name=\"keywords\" content=\"agence de voyage Grand-Bassam, visa Côte d\x27Ivoire, billet d\x27avion Abidjan, visa Schengen, assurance voyage, location de véhicule\">
     <meta name=\"robots\" content=\"INDEX,FOLLOW\">
 
     <!-- Mobile Specific Metas -->
@@ -404,6 +414,7 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
     <link rel=\"stylesheet\" href=\"{{ \x27assets/css/swiper-bundle.min.css\x27 | theme }}\">
     <!-- Theme Custom CSS -->
     <link rel=\"stylesheet\" href=\"{{ \x27assets/css/style.css\x27 | theme}}\">
+    <link rel=\"stylesheet\" href=\"{{ \x27assets/css/custom.css\x27 | theme }}\">
 
 </head>
 
@@ -493,8 +504,10 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
 <!-- circle-progress -->
 <script src=\"{{ \x27assets/js/circle-progress.js\x27 | theme }}\"></script>
 
+{% if this.page.id == \x27accueil\x27 %}
 <script src=\"{{ \x27assets/js/matter.min.js\x27 | theme }}\"></script>
 <script src=\"{{ \x27assets/js/matterjs-custom.js\x27 | theme }}\"></script>
+{% endif %}
 
 
 <!-- nice select -->
@@ -517,14 +530,14 @@ class __TwigTemplate_974a1f7c6f2058399a50aeb75154374b extends Template
     
     public function checkSecurity()
     {
-        static $tags = ["partial" => 110, "page" => 112];
+        static $tags = ["partial" => 111, "page" => 113, "if" => 148];
         static $filters = ["theme" => 17];
         static $functions = [];
         static $tests = [];
 
         try {
             $this->sandbox->checkSecurity(
-                [0 => "partial", 1 => "page"],
+                [0 => "partial", 1 => "page", 2 => "if"],
                 [0 => "theme"],
                 [],
                 [],

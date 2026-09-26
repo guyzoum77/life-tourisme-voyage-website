@@ -1,0 +1,181 @@
+title = "Accompagnement visa"
+url = "/accompagnement-visa"
+layout = "layout"
+is_hidden = 0
+==
+{% partial 'sidemenu' %}
+<!--==============================
+    Breadcumb
+============================== -->
+<div class="breadcumb-wrapper" data-bg-src="{{ 'assets/img/bg/breadcumb-bg.jpg'|theme }}">
+    <div class="container">
+        <div class="breadcumb-content">
+            <h1 class="breadcumb-title">Accompagnement visa</h1>
+            <ul class="breadcumb-menu">
+                <li><a href="{{ 'accueil'|page }}">Accueil</a></li>
+                <li>Nos services</li>
+                <li>Accompagnement visa</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!--==============================
+    Détail du service
+==============================-->
+<section class="space">
+    <div class="container">
+        <div class="row gy-5">
+            <div class="col-xxl-8 col-lg-7">
+                <div class="page-single">
+                    <div class="service-img global-img mb-40">
+                        <img class="w-100" style="border-radius:16px" src="{{ 'assets/img/destination/destination-details.jpg'|theme }}" alt="Accompagnement visa">
+                    </div>
+                    <div class="page-content">
+                        <span class="sub-title">Nos services</span>
+                        <h2 class="box-title mt-2">Accompagnement visa</h2>
+                        <p class="sec-text mb-20 mt-3"><strong>Traitement rapide de vos dossiers visa</strong>, pour tous pays.</p>
+                        <p class="sec-text mb-20">Un visa refusé à cause d'une pièce manquante ou mal présentée, c'est du temps et de l'argent perdus. Chez Life Voyages & Tourisme, nous vous aidons à constituer un dossier complet, cohérent et conforme aux exigences du consulat, que vous partiez pour du tourisme, une visite familiale, des études ou des affaires.</p>
+                        <p class="sec-text mb-20">Nous accompagnons les demandes pour la France et l'espace Schengen, le Royaume-Uni, le Canada, les États-Unis, Dubaï, ainsi que de nombreux pays d'Afrique et d'Asie. La décision finale appartient toujours à l'ambassade : notre rôle est de mettre toutes les chances de votre côté.</p>
+                        <h3 class="box-title visa-dest-heading mb-20">Les destinations que nous traitons</h3>
+                        <div class="visa-dest-grid mb-30">
+                            {% for d in [
+                                {'img': 'IMG_6890.jpeg', 'titre': 'France', 'texte': 'Visa touriste, visite familiale, affaires'},
+                                {'img': 'IMG_6888.jpeg', 'titre': 'Études en France', 'texte': 'Procédure Campus France et visa étudiant'},
+                                {'img': 'IMG_6887.jpeg', 'titre': 'Royaume-Uni', 'texte': 'Visa visiteur'},
+                                {'img': 'IMG_6886.jpeg', 'titre': 'Canada', 'texte': "Visa visiteur et permis d'études"},
+                                {'img': 'IMG_6889.jpeg', 'titre': 'États-Unis', 'texte': 'Visa touristique et visa étudiant'},
+                                {'img': '215ecbfd-d79d-4877-a55c-b48a4c9f285f.jpeg', 'titre': 'Maroc & autres', 'texte': 'Dubaï, Afrique, Chine, Turquie…'}
+                            ] %}
+                            <a href="{{ 'contact'|page }}" class="visa-dest">
+                                <img class="visa-dest_img" src="{{ ('assets/img/life-voyage/' ~ d.img)|theme }}" alt="{{ d.titre }}">
+                                <span class="visa-dest_arrow"><i class="fa-solid fa-arrow-up-right"></i></span>
+                                <span class="visa-dest_body">
+                                    <span class="visa-dest_title">{{ d.titre }}</span>
+                                    <span class="visa-dest_text">{{ d.texte }}</span>
+                                    <span class="visa-dest_cta">Constituer mon dossier</span>
+                                </span>
+                            </a>
+                            {% endfor %}
+                        </div>
+                        <h3 class="box-title mt-40 mb-20">Ce que comprend notre accompagnement</h3>
+                        <div class="checklist mb-30">
+                            <ul>
+                            <li>Étude de votre profil et du motif de votre voyage</li>
+                            <li>Liste personnalisée des documents à fournir</li>
+                            <li>Vérification de chaque pièce du dossier</li>
+                            <li>Remplissage des formulaires en ligne</li>
+                            <li>Prise de rendez-vous au consulat ou au centre de visa</li>
+                            <li>Réservation de vol et d'hôtel pour le dossier</li>
+                            <li>Assurance voyage conforme aux exigences</li>
+                            <li>Préparation à l'entretien et suivi jusqu'à la réponse</li>
+                            </ul>
+                        </div>
+                        <h3 class="box-title mt-40 mb-20">Documents généralement demandés</h3>
+                        <p class="sec-text mb-20">À titre indicatif, pour un visa court séjour (tourisme ou visite familiale). La liste exacte dépend du pays, du type de visa et de votre situation : nous la vérifions avec vous avant tout dépôt.</p>
+                        <div class="checklist mb-30">
+                            <ul>
+                            <li>Passeport en cours de validité, avec des pages vierges</li>
+                            <li>Formulaire de demande et photos d'identité récentes</li>
+                            <li>Réservation de vol aller-retour et justificatif d'hébergement</li>
+                            <li>Assurance voyage (obligatoire pour l'espace Schengen)</li>
+                            <li>Relevés bancaires récents et justificatifs de revenus</li>
+                            <li>Attestation de travail et de congé, ou justificatifs d'activité</li>
+                            <li>Pour les études : attestation d'admission ou d'inscription</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xxl-4 col-lg-5">
+                {% partial 'service-sidebar' visuel="assets/img/life-voyage/IMG_6884.jpeg" visuel_titre="Nos services en un coup d'œil" %}
+            </div>
+        </div>
+        <div class="service-steps-area">
+            <h3 class="box-title mb-30">Comment se déroule votre demande</h3>
+            <div class="service-steps">
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_1.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">01</span>
+                    </div>
+                    <h5 class="service-step_title">Premier échange</h5>
+                    <p class="service-step_text">En agence à Grand-Bassam ou sur WhatsApp, nous étudions votre projet : destination, motif, dates et situation.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_2.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">02</span>
+                    </div>
+                    <h5 class="service-step_title">Liste des pièces</h5>
+                    <p class="service-step_text">Vous recevez la liste exacte des documents à réunir pour votre cas, avec nos conseils pour chacun.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_3.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">03</span>
+                    </div>
+                    <h5 class="service-step_title">Montage du dossier</h5>
+                    <p class="service-step_text">Nous vérifions vos pièces, remplissons les formulaires et prenons votre rendez-vous.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_1.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">04</span>
+                    </div>
+                    <h5 class="service-step_title">Dépôt et suivi</h5>
+                    <p class="service-step_text">Nous vous préparons au rendez-vous et suivons votre demande jusqu'à la réponse du consulat.</p>
+                </div>
+            </div>
+        </div>
+        <div class="service-faq-area">
+            <h3 class="box-title mb-30">Questions fréquentes</h3>
+            <div class="accordion" id="faqVisa">
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVisa-h1">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVisa-c1" aria-expanded="false" aria-controls="faqVisa-c1">Pouvez-vous garantir l'obtention de mon visa ?</button>
+                </div>
+                <div id="faqVisa-c1" class="accordion-collapse collapse" aria-labelledby="faqVisa-h1" data-bs-parent="#faqVisa">
+                    <div class="accordion-body">
+                        <p class="faq-text">Non. La décision appartient uniquement au consulat ou à l'ambassade. Notre rôle est de vous aider à déposer un dossier complet et bien présenté, ce qui évite les refus liés à des pièces manquantes ou mal préparées.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVisa-h2">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVisa-c2" aria-expanded="false" aria-controls="faqVisa-c2">Combien de temps à l'avance dois-je commencer ?</button>
+                </div>
+                <div id="faqVisa-c2" class="accordion-collapse collapse" aria-labelledby="faqVisa-h2" data-bs-parent="#faqVisa">
+                    <div class="accordion-body">
+                        <p class="faq-text">Cela dépend du pays et de la période. Pour un visa Schengen, prévoyez idéalement 1 à 2 mois avant le départ. Nous vous donnons un délai précis dès le premier échange.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVisa-h3">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVisa-c3" aria-expanded="false" aria-controls="faqVisa-c3">Les frais consulaires sont-ils compris dans vos tarifs ?</button>
+                </div>
+                <div id="faqVisa-c3" class="accordion-collapse collapse" aria-labelledby="faqVisa-h3" data-bs-parent="#faqVisa">
+                    <div class="accordion-body">
+                        <p class="faq-text">Les frais de visa sont fixés par chaque pays et payés à part. Notre devis distingue clairement nos honoraires et les frais officiels.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVisa-h4">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVisa-c4" aria-expanded="false" aria-controls="faqVisa-c4">Puis-je faire toute la démarche à distance ?</button>
+                </div>
+                <div id="faqVisa-c4" class="accordion-collapse collapse" aria-labelledby="faqVisa-h4" data-bs-parent="#faqVisa">
+                    <div class="accordion-body">
+                        <p class="faq-text">Oui, en grande partie : les échanges et l'envoi des documents peuvent se faire par WhatsApp ou par email. Certaines étapes, comme la prise d'empreintes, se font en personne au centre de visa.</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="d-flex flex-wrap justify-content-center gap-3 mt-50">
+                <a href="{{ 'contact'|page }}" class="th-btn th-icon">Demander un devis</a>
+                <a href="https://wa.me/2250757397423" target="_blank" class="th-btn style3 th-icon">Nous écrire sur WhatsApp</a>
+            </div>
+        </div>
+    </div>
+</section>

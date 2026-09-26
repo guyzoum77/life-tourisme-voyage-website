@@ -48,7 +48,10 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
                 <div class=\"row align-items-center justify-content-between\">
                     <div class=\"col-auto\">
                         <div class=\"header-logo\">
-                            <a href=\"#\">
+                            <a href=\"";
+        // line 8
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accueil"), 8, $this->source);
+        yield "\">
                                 <img style=\"height:100px;width:auto;\" src=\"";
         // line 9
         yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 9, $this->source);
@@ -60,9 +63,19 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
                         <nav class=\"main-menu d-none d-xl-block\">
                             <ul>
                                 <li>
-                                    <a class=\"active\" href=\"/\">Acceuil</a>
+                                    <a class=\"";
+        // line 17
+        yield (string) ((($this->sandbox->ensureToStringAllowed(CoreExtension::getAttribute($this->env, $this->source, CoreExtension::getAttribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 17), "id", [], "any", false, false, true, 17), 17, $this->source) == "accueil")) ? ("active") : (""));
+        yield "\" href=\"";
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accueil"), 17, $this->source);
+        yield "\">Accueil</a>
                                 </li>
-                                <li><a href=\"#\">A propos de nous</a></li>
+                                <li><a class=\"";
+        // line 19
+        yield (string) ((($this->sandbox->ensureToStringAllowed(CoreExtension::getAttribute($this->env, $this->source, CoreExtension::getAttribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 19), "id", [], "any", false, false, true, 19), 19, $this->source) == "a-propos")) ? ("active") : (""));
+        yield "\" href=\"";
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("a-propos"), 19, $this->source);
+        yield "\">À propos de nous</a></li>
 <!--                                <li class=\"menu-item-has-children\">-->
 <!--                                    <a href=\"#\">Destination</a>-->
 <!--                                    <ul class=\"sub-menu\">-->
@@ -71,14 +84,44 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
 <!--                                    </ul>-->
 <!--                                </li>-->
                                 <li class=\"menu-item-has-children\">
-                                    <a href=\"#\">Nos Services</a>
+                                    <a class=\"";
+        // line 28
+        yield (string) ((CoreExtension::inFilter($this->sandbox->ensureToStringAllowed(CoreExtension::getAttribute($this->env, $this->source, CoreExtension::getAttribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 28), "id", [], "any", false, false, true, 28), 28, $this->source), ["accompagnement-visa", "billetterie-vols", "tourisme", "vehicules", "hotels-residences", "assurance-voyage"])) ? ("active") : (""));
+        yield "\" href=\"#\">Nos services</a>
                                     <ul class=\"sub-menu\">
-                                        <li><a href=\"#\">En attente</a></li>
-                                        <li><a href=\"#\">En attente</a></li>
+                                        <li><a href=\"";
+        // line 30
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 30, $this->source);
+        yield "\">Accompagnement visa</a></li>
+                                        <li><a href=\"";
+        // line 31
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("billetterie-vols"), 31, $this->source);
+        yield "\">Billetterie &amp; vols</a></li>
+                                        <li><a href=\"";
+        // line 32
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("tourisme"), 32, $this->source);
+        yield "\">Tourisme national &amp; international</a></li>
+                                        <li><a href=\"";
+        // line 33
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("vehicules"), 33, $this->source);
+        yield "\">Vente &amp; location de véhicules</a></li>
+                                        <li><a href=\"";
+        // line 34
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("hotels-residences"), 34, $this->source);
+        yield "\">Hôtels &amp; résidences meublées</a></li>
+                                        <li><a href=\"";
+        // line 35
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("assurance-voyage"), 35, $this->source);
+        yield "\">Assurance voyage</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href=\"#\">Contactez-nous</a>
+                                    <a class=\"";
+        // line 39
+        yield (string) ((($this->sandbox->ensureToStringAllowed(CoreExtension::getAttribute($this->env, $this->source, CoreExtension::getAttribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 39), "id", [], "any", false, false, true, 39), 39, $this->source) == "contact")) ? ("active") : (""));
+        yield "\" href=\"";
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("contact"), 39, $this->source);
+        yield "\">Contactez-nous</a>
                                 </li>
                             </ul>
                         </nav>
@@ -136,8 +179,8 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
             </div>
             <div class=\"header-right-button\">
                 <a href=\"#\" class=\"simple-btn sideMenuToggler\"><img src=\"";
-        // line 92
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/menu.svg"), 92, $this->source);
+        // line 96
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/menu.svg"), 96, $this->source);
         yield "\" alt=\"\"></a>
             </div>
         </div>
@@ -167,7 +210,7 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  140 => 92,  54 => 9,  44 => 1,);
+        return array (  183 => 96,  121 => 39,  114 => 35,  110 => 34,  106 => 33,  102 => 32,  98 => 31,  94 => 30,  89 => 28,  75 => 19,  68 => 17,  57 => 9,  53 => 8,  44 => 1,);
     }
 
     public function getSourceContext(): Source
@@ -179,7 +222,7 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
                 <div class=\"row align-items-center justify-content-between\">
                     <div class=\"col-auto\">
                         <div class=\"header-logo\">
-                            <a href=\"#\">
+                            <a href=\"{{ \x27accueil\x27|page }}\">
                                 <img style=\"height:100px;width:auto;\" src=\"{{\x27assets/img/life-voyage/loog.png\x27|theme }}\" alt=\"Life Voyage\">
                             </a>
                         </div>
@@ -188,9 +231,9 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
                         <nav class=\"main-menu d-none d-xl-block\">
                             <ul>
                                 <li>
-                                    <a class=\"active\" href=\"/\">Acceuil</a>
+                                    <a class=\"{{ this.page.id == \x27accueil\x27 ? \x27active\x27 }}\" href=\"{{ \x27accueil\x27|page }}\">Accueil</a>
                                 </li>
-                                <li><a href=\"#\">A propos de nous</a></li>
+                                <li><a class=\"{{ this.page.id == \x27a-propos\x27 ? \x27active\x27 }}\" href=\"{{ \x27a-propos\x27|page }}\">À propos de nous</a></li>
 <!--                                <li class=\"menu-item-has-children\">-->
 <!--                                    <a href=\"#\">Destination</a>-->
 <!--                                    <ul class=\"sub-menu\">-->
@@ -199,14 +242,18 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
 <!--                                    </ul>-->
 <!--                                </li>-->
                                 <li class=\"menu-item-has-children\">
-                                    <a href=\"#\">Nos Services</a>
+                                    <a class=\"{{ this.page.id in [\x27accompagnement-visa\x27, \x27billetterie-vols\x27, \x27tourisme\x27, \x27vehicules\x27, \x27hotels-residences\x27, \x27assurance-voyage\x27] ? \x27active\x27 }}\" href=\"#\">Nos services</a>
                                     <ul class=\"sub-menu\">
-                                        <li><a href=\"#\">En attente</a></li>
-                                        <li><a href=\"#\">En attente</a></li>
+                                        <li><a href=\"{{ \x27accompagnement-visa\x27|page }}\">Accompagnement visa</a></li>
+                                        <li><a href=\"{{ \x27billetterie-vols\x27|page }}\">Billetterie &amp; vols</a></li>
+                                        <li><a href=\"{{ \x27tourisme\x27|page }}\">Tourisme national &amp; international</a></li>
+                                        <li><a href=\"{{ \x27vehicules\x27|page }}\">Vente &amp; location de véhicules</a></li>
+                                        <li><a href=\"{{ \x27hotels-residences\x27|page }}\">Hôtels &amp; résidences meublées</a></li>
+                                        <li><a href=\"{{ \x27assurance-voyage\x27|page }}\">Assurance voyage</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href=\"#\">Contactez-nous</a>
+                                    <a class=\"{{ this.page.id == \x27contact\x27 ? \x27active\x27 }}\" href=\"{{ \x27contact\x27|page }}\">Contactez-nous</a>
                                 </li>
                             </ul>
                         </nav>
@@ -280,14 +327,14 @@ class __TwigTemplate_ac630a798a018009c6e61e2f41473c90 extends Template
     public function checkSecurity()
     {
         static $tags = [];
-        static $filters = ["theme" => 9];
+        static $filters = ["page" => 8, "theme" => 9];
         static $functions = [];
         static $tests = [];
 
         try {
             $this->sandbox->checkSecurity(
                 [],
-                [0 => "theme"],
+                [0 => "page", 1 => "theme"],
                 [],
                 [],
                 $this->source

@@ -1,0 +1,47 @@
+{# Barre latérale des pages services #}
+<aside class="sidebar-area">
+    <div class="widget widget_nav_menu">
+        <h3 class="widget_title">Nos services</h3>
+        <div class="menu-all-pages-container">
+            <ul class="menu">
+                <li><a href="{{ 'accompagnement-visa'|page }}">Accompagnement visa</a></li>
+                <li><a href="{{ 'billetterie-vols'|page }}">Billetterie &amp; vols</a></li>
+                <li><a href="{{ 'contact'|page }}">Tourisme national &amp; international</a></li>
+                <li><a href="{{ 'contact'|page }}">Vente &amp; location de véhicules</a></li>
+                <li><a href="{{ 'contact'|page }}">Hôtels &amp; résidences meublées</a></li>
+                <li><a href="{{ 'contact'|page }}">Assurance voyage</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="widget widget_call">
+        <div class="widget-call">
+            <h4 class="box-title text-white">Besoin d'un conseil ?</h4>
+            <p class="text-white mb-20">Écrivez-nous sur WhatsApp ou appelez-nous, nous vous répondons rapidement.</p>
+            <div class="info-box d-flex align-items-center mb-20">
+                <div class="info-box_icon"><i class="fab fa-whatsapp"></i></div>
+                <div>
+                    <p class="info-box_subtitle mb-0">WhatsApp</p>
+                    <a href="https://wa.me/2250757397423" class="info-box_link">+225 07 57 39 74 23</a>
+                </div>
+            </div>
+            <div class="info-box d-flex align-items-center mb-20">
+                <div class="info-box_icon"><i class="fa-solid fa-phone"></i></div>
+                <div>
+                    <p class="info-box_subtitle mb-0">Téléphone</p>
+                    <a href="tel:+2250789152812" class="info-box_link">+225 07 89 15 28 12</a>
+                </div>
+            </div>
+            <div class="info-box d-flex align-items-center">
+                <div class="info-box_icon"><i class="fa-solid fa-phone-office"></i></div>
+                <div>
+                    <p class="info-box_subtitle mb-0">Fixe</p>
+                    <a href="tel:+2252721734109" class="info-box_link">+225 27 21 73 41 09</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="widget">
+        <h3 class="widget_title">{{ visuel_titre }}</h3>
+        <img class="w-100" style="border-radius:8px" src="{{ visuel|theme }}" alt="{{ visuel_titre }}">
+    </div>
+</aside>

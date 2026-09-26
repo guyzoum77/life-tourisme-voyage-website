@@ -1,0 +1,154 @@
+title = "Billetterie & vols"
+url = "/billetterie-vols"
+layout = "layout"
+is_hidden = 0
+==
+{% partial 'sidemenu' %}
+<!--==============================
+    Breadcumb
+============================== -->
+<div class="breadcumb-wrapper" data-bg-src="{{ 'assets/img/bg/breadcumb-bg.jpg'|theme }}">
+    <div class="container">
+        <div class="breadcumb-content">
+            <h1 class="breadcumb-title">Billetterie & vols</h1>
+            <ul class="breadcumb-menu">
+                <li><a href="{{ 'accueil'|page }}">Accueil</a></li>
+                <li>Nos services</li>
+                <li>Billetterie & vols</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!--==============================
+    Détail du service
+==============================-->
+<section class="space">
+    <div class="container">
+        <div class="row gy-5">
+            <div class="col-xxl-8 col-lg-7">
+                <div class="page-single">
+                    <div class="service-img global-img mb-40">
+                        <img class="w-100" style="border-radius:16px" src="{{ 'assets/img/tour/tour_inner_1.jpg'|theme }}" alt="Billetterie & vols">
+                    </div>
+                    <div class="page-content">
+                        <span class="sub-title">Nos services</span>
+                        <h2 class="box-title mt-2">Billetterie & vols</h2>
+                        <p class="sec-text mb-20 mt-3"><strong>Vos billets d'avion aux meilleurs tarifs</strong>, pour toutes les destinations.</p>
+                        <p class="sec-text mb-20">Au départ d'Abidjan ou de toute autre ville, nous comparons les compagnies aériennes et les itinéraires pour vous proposer le vol qui correspond à votre budget, à vos dates et à vos contraintes de bagages. Vous n'avez plus à passer des heures sur internet : un conseiller s'en charge pour vous.</p>
+                        <p class="sec-text mb-20">Voyage d'affaires, vacances en famille, départ pour les études ou déplacement de groupe : nous trouvons la meilleure option et vous accompagnons jusqu'à l'embarquement.</p>
+                        <h3 class="box-title mt-40 mb-20">Nos offres de billetterie</h3>
+                        <div class="checklist mb-30">
+                            <ul>
+                            <li>Vols économiques : les meilleurs tarifs pour voyager malin</li>
+                            <li>Classe affaires : confort et flexibilité pour vos déplacements professionnels</li>
+                            <li>Voyages de groupe : familles, associations, pèlerinages, entreprises</li>
+                            <li>Offres de dernière minute : des solutions même pour un départ urgent</li>
+                            <li>Réservation de vol pour dossier visa</li>
+                            <li>Modification et annulation selon les conditions du billet</li>
+                            </ul>
+                        </div>
+                        <h3 class="box-title mt-40 mb-20">Nos conseils avant de voyager</h3>
+                        <div class="checklist mb-30">
+                            <ul>
+                            <li>Réservez tôt pour bénéficier des meilleurs tarifs, surtout en période de fêtes et de vacances</li>
+                            <li>Vérifiez la validité de votre passeport et les exigences de visa de votre destination</li>
+                            <li>Consultez la franchise bagages de votre billet avant de faire votre valise</li>
+                            <li>Pensez à l'assurance voyage : nous pouvons l'ajouter à votre réservation</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xxl-4 col-lg-5">
+                {% partial 'service-sidebar' visuel="assets/img/life-voyage/IMG_6885.jpeg" visuel_titre="Life Voyages & Tourisme" %}
+            </div>
+        </div>
+        <div class="service-steps-area">
+            <h3 class="box-title mb-30">Comment réserver votre billet</h3>
+            <div class="service-steps">
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_1.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">01</span>
+                    </div>
+                    <h5 class="service-step_title">Votre demande</h5>
+                    <p class="service-step_text">Indiquez-nous la destination, les dates et le nombre de voyageurs, en agence ou sur WhatsApp.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_2.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">02</span>
+                    </div>
+                    <h5 class="service-step_title">Nos propositions</h5>
+                    <p class="service-step_text">Nous vous envoyons plusieurs options avec les prix, les horaires et les conditions de bagages.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_3.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">03</span>
+                    </div>
+                    <h5 class="service-step_title">Émission du billet</h5>
+                    <p class="service-step_text">Vous validez, nous émettons votre billet et vous l'envoyons par email ou WhatsApp.</p>
+                </div>
+                <div class="service-step">
+                    <div class="service-step_top">
+                        <span class="service-step_icon"><img src="{{ 'assets/img/icon/about_1_1.svg'|theme }}" alt=""></span>
+                        <span class="service-step_num">04</span>
+                    </div>
+                    <h5 class="service-step_title">Suivi jusqu'au départ</h5>
+                    <p class="service-step_text">Nous restons disponibles en cas de changement de programme ou de question avant le vol.</p>
+                </div>
+            </div>
+        </div>
+        <div class="service-faq-area">
+            <h3 class="box-title mb-30">Questions fréquentes</h3>
+            <div class="accordion" id="faqVols">
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVols-h1">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVols-c1" aria-expanded="false" aria-controls="faqVols-c1">Puis-je réserver un billet sans avoir encore mon visa ?</button>
+                </div>
+                <div id="faqVols-c1" class="accordion-collapse collapse" aria-labelledby="faqVols-h1" data-bs-parent="#faqVols">
+                    <div class="accordion-body">
+                        <p class="faq-text">Oui. Pour votre dossier visa, nous pouvons fournir une réservation de vol, puis émettre le billet définitif une fois le visa obtenu.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVols-h2">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVols-c2" aria-expanded="false" aria-controls="faqVols-c2">Proposez-vous des tarifs pour les groupes ?</button>
+                </div>
+                <div id="faqVols-c2" class="accordion-collapse collapse" aria-labelledby="faqVols-h2" data-bs-parent="#faqVols">
+                    <div class="accordion-body">
+                        <p class="faq-text">Oui. Pour les familles, associations, entreprises ou pèlerinages, nous négocions des conditions adaptées au nombre de voyageurs.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVols-h3">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVols-c3" aria-expanded="false" aria-controls="faqVols-c3">Comment puis-je payer mon billet ?</button>
+                </div>
+                <div id="faqVols-c3" class="accordion-collapse collapse" aria-labelledby="faqVols-h3" data-bs-parent="#faqVols">
+                    <div class="accordion-body">
+                        <p class="faq-text">En agence ou à distance, selon les moyens de paiement acceptés par l'agence. Nous vous les précisons avec votre devis.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-card">
+                <div class="accordion-header" id="faqVols-h4">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqVols-c4" aria-expanded="false" aria-controls="faqVols-c4">Que se passe-t-il si je dois changer mes dates ?</button>
+                </div>
+                <div id="faqVols-c4" class="accordion-collapse collapse" aria-labelledby="faqVols-h4" data-bs-parent="#faqVols">
+                    <div class="accordion-body">
+                        <p class="faq-text">Cela dépend des conditions de votre billet. Contactez-nous au plus vite : nous nous occupons de la modification auprès de la compagnie.</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="d-flex flex-wrap justify-content-center gap-3 mt-50">
+                <a href="{{ 'contact'|page }}" class="th-btn th-icon">Demander un devis</a>
+                <a href="https://wa.me/2250757397423" target="_blank" class="th-btn style3 th-icon">Nous écrire sur WhatsApp</a>
+            </div>
+        </div>
+    </div>
+</section>

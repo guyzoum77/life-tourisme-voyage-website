@@ -48,15 +48,14 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                 <div class=\"newsletter-top\">
                     <div class=\"row gy-4 align-items-center\">
                         <div class=\"col-lg-5\">
-                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">recevez notre dernière
-                                newsletter</h2>
+                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">Recevez nos offres et alertes visa</h2>
                         </div>
                         <div class=\"col-lg-7\">
                             <form class=\"newsletter-form style2\">
-                                <input class=\"form-control \" type=\"email\" placeholder=\"Entrez votre email\" required=\"\">
+                                <input class=\"form-control \" type=\"email\" placeholder=\"Votre email\" required=\"\">
                                 <button type=\"submit\" class=\"th-btn style1\">S\x27abonner <img src=\"";
-        // line 14
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/plane2.svg"), 14, $this->source);
+        // line 13
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/plane2.svg"), 13, $this->source);
         yield "\" alt=\"\"></button>
                             </form>
                         </div>
@@ -69,11 +68,11 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                         <div class=\"th-widget-about\">
                             <div class=\"about-logo\">
                                 <a href=\"home-travel.html\"><img style=\"height:56px;width:auto;\" src=\"";
-        // line 25
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 25, $this->source);
+        // line 24
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/life-voyage/loog.png"), 24, $this->source);
         yield "\" alt=\"Life Voyage\"></a>
                             </div>
-                            <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
+                            <p class=\"about-text\">Votre partenaire de confiance pour tous vos voyages à travers le monde. Voyagez sans stress, nous nous occupons de tout !</p>
                             <div class=\"th-social\">
                                 <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
                                 <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
@@ -90,11 +89,26 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                         <div class=\"menu-all-pages-container\">
                             <ul class=\"menu\">
 
-                                <li><a href=\"#\">Accueil</a></li>
-                                <li><a href=\"#\">À propos de nous</a></li>
-                                <li><a href=\"#\">Nos Services</a></li>
-                                <li><a href=\"#\">Conditions d\x27utilisation</a></li>
-                                <li><a href=\"#\">Réserver un circuit</a></li>
+                                <li><a href=\"";
+        // line 43
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accueil"), 43, $this->source);
+        yield "\">Accueil</a></li>
+                                <li><a href=\"";
+        // line 44
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("a-propos"), 44, $this->source);
+        yield "\">À propos de nous</a></li>
+                                <li><a href=\"";
+        // line 45
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("accompagnement-visa"), 45, $this->source);
+        yield "\">Nos services</a></li>
+                                <li><a href=\"";
+        // line 46
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("contact"), 46, $this->source);
+        yield "\">Contactez-nous</a></li>
+                                <li><a href=\"";
+        // line 47
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->pageFilter("contact"), 47, $this->source);
+        yield "\">Demander un devis</a></li>
                             </ul>
                         </div>
                     </div>
@@ -106,13 +120,14 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                             <div class=\"info-box_text\">
                                 <div class=\"icon\">
                                     <img src=\"";
-        // line 59
-        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/phone.svg"), 59, $this->source);
+        // line 58
+        yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/phone.svg"), 58, $this->source);
         yield "\" alt=\"img\">
                                 </div>
                                 <div class=\"details\">
-                                    <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                                    <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
+                                    <p><a href=\"tel:+2250757397423\" class=\"info-box_link\">+225 07 57 39 74 23</a></p>
+                                    <p><a href=\"tel:+2250789152812\" class=\"info-box_link\">+225 07 89 15 28 12</a></p>
+                                    <p><a href=\"tel:+2252721734109\" class=\"info-box_link\">+225 27 21 73 41 09</a></p>
                                 </div>
                             </div>
                             <div class=\"info-box_text\">
@@ -123,8 +138,8 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
         yield "\" alt=\"img\">
                                 </div>
                                 <div class=\"details\">
-                                    <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                                    <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
+                                    <p><a href=\"mailto:info@lifevoyagestourisme.com\" class=\"info-box_link\">info@lifevoyagestourisme.com</a></p>
+                                    <p><a href=\"https://www.lifevoyagestourisme.com\" class=\"info-box_link\">www.lifevoyagestourisme.com</a></p>
                                 </div>
                             </div>
                             <div class=\"info-box_text\">
@@ -133,7 +148,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
         yield (string) $this->sandbox->ensureToStringAllowed($this->extensions['Cms\Twig\Extension']->themeFilter("assets/img/icon/location-dot.svg"), 76, $this->source);
         yield "\" alt=\"img\"></div>
                                 <div class=\"details\">
-                                    <p>789 Inner Lane, Holy park, California, USA</p>
+                                    <p>Grand-Bassam, Mockeyville, Carrefour Femme Peulh 2</p>
                                 </div>
                             </div>
                         </div>
@@ -141,7 +156,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                 </div>
                 <div class=\"col-md-6 col-xl-auto\">
                     <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Publications Instagram</h3>
+                        <h3 class=\"widget_title\">Suivez-nous sur Facebook</h3>
                         <div class=\"sidebar-gallery\">
                             <div class=\"gallery-thumb\">
                                 <img src=\"";
@@ -195,7 +210,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
         <div class=\"container\">
             <div class=\"row justify-content-between align-items-center\">
                 <div class=\"col-md-6\">
-                    <p class=\"copyright-text\">Copyright 2024 <a href=\"#\">Life Voyage</a>. Tous droits réservés.</p>
+                    <p class=\"copyright-text\">Copyright 2026 <a href=\"#\">Life Voyages &amp; Tourisme</a>. Tous droits réservés.</p>
                 </div>
                 <div class=\"col-md-6 text-end d-none d-md-block\">
                     <div class=\"footer-card\">
@@ -241,7 +256,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  216 => 135,  205 => 127,  184 => 109,  177 => 105,  170 => 101,  163 => 97,  156 => 93,  149 => 89,  133 => 76,  122 => 68,  110 => 59,  73 => 25,  59 => 14,  44 => 1,);
+        return array (  231 => 135,  220 => 127,  199 => 109,  192 => 105,  185 => 101,  178 => 97,  171 => 93,  164 => 89,  148 => 76,  137 => 68,  124 => 58,  110 => 47,  106 => 46,  102 => 45,  98 => 44,  94 => 43,  72 => 24,  58 => 13,  44 => 1,);
     }
 
     public function getSourceContext(): Source
@@ -253,12 +268,11 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                 <div class=\"newsletter-top\">
                     <div class=\"row gy-4 align-items-center\">
                         <div class=\"col-lg-5\">
-                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">recevez notre dernière
-                                newsletter</h2>
+                            <h2 class=\"newsletter-title text-white text-capitalize mb-0\">Recevez nos offres et alertes visa</h2>
                         </div>
                         <div class=\"col-lg-7\">
                             <form class=\"newsletter-form style2\">
-                                <input class=\"form-control \" type=\"email\" placeholder=\"Entrez votre email\" required=\"\">
+                                <input class=\"form-control \" type=\"email\" placeholder=\"Votre email\" required=\"\">
                                 <button type=\"submit\" class=\"th-btn style1\">S\x27abonner <img src=\"{{ \x27assets/img/icon/plane2.svg\x27 | theme }}\" alt=\"\"></button>
                             </form>
                         </div>
@@ -272,7 +286,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                             <div class=\"about-logo\">
                                 <a href=\"home-travel.html\"><img style=\"height:56px;width:auto;\" src=\"{{\x27assets/img/life-voyage/loog.png\x27|theme }}\" alt=\"Life Voyage\"></a>
                             </div>
-                            <p class=\"about-text\">Optimisons rapidement un modèle de capital intellectuel multiplateforme. Créons de manière appropriée des infrastructures interactives</p>
+                            <p class=\"about-text\">Votre partenaire de confiance pour tous vos voyages à travers le monde. Voyagez sans stress, nous nous occupons de tout !</p>
                             <div class=\"th-social\">
                                 <a href=\"https://www.facebook.com/\"><i class=\"fab fa-facebook-f\"></i></a>
                                 <a href=\"https://www.twitter.com/\"><i class=\"fab fa-twitter\"></i></a>
@@ -289,11 +303,11 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                         <div class=\"menu-all-pages-container\">
                             <ul class=\"menu\">
 
-                                <li><a href=\"#\">Accueil</a></li>
-                                <li><a href=\"#\">À propos de nous</a></li>
-                                <li><a href=\"#\">Nos Services</a></li>
-                                <li><a href=\"#\">Conditions d\x27utilisation</a></li>
-                                <li><a href=\"#\">Réserver un circuit</a></li>
+                                <li><a href=\"{{ \x27accueil\x27|page }}\">Accueil</a></li>
+                                <li><a href=\"{{ \x27a-propos\x27|page }}\">À propos de nous</a></li>
+                                <li><a href=\"{{ \x27accompagnement-visa\x27|page }}\">Nos services</a></li>
+                                <li><a href=\"{{ \x27contact\x27|page }}\">Contactez-nous</a></li>
+                                <li><a href=\"{{ \x27contact\x27|page }}\">Demander un devis</a></li>
                             </ul>
                         </div>
                     </div>
@@ -307,8 +321,9 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                                     <img src=\"{{\x27assets/img/icon/phone.svg\x27 | theme }}\" alt=\"img\">
                                 </div>
                                 <div class=\"details\">
-                                    <p><a href=\"tel:+01234567890\" class=\"info-box_link\">+01 234 567 890</a></p>
-                                    <p><a href=\"tel:+09876543210\" class=\"info-box_link\">+09 876 543 210</a></p>
+                                    <p><a href=\"tel:+2250757397423\" class=\"info-box_link\">+225 07 57 39 74 23</a></p>
+                                    <p><a href=\"tel:+2250789152812\" class=\"info-box_link\">+225 07 89 15 28 12</a></p>
+                                    <p><a href=\"tel:+2252721734109\" class=\"info-box_link\">+225 27 21 73 41 09</a></p>
                                 </div>
                             </div>
                             <div class=\"info-box_text\">
@@ -316,14 +331,14 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                                     <img src=\"{{\x27assets/img/icon/envelope.svg\x27 |theme }}\" alt=\"img\">
                                 </div>
                                 <div class=\"details\">
-                                    <p><a href=\"mailto:mailinfo00@life-voyage.com\" class=\"info-box_link\">mailinfo00@life-voyage.com</a></p>
-                                    <p><a href=\"mailto:support24@life-voyage.com\" class=\"info-box_link\">support24@life-voyage.com</a></p>
+                                    <p><a href=\"mailto:info@lifevoyagestourisme.com\" class=\"info-box_link\">info@lifevoyagestourisme.com</a></p>
+                                    <p><a href=\"https://www.lifevoyagestourisme.com\" class=\"info-box_link\">www.lifevoyagestourisme.com</a></p>
                                 </div>
                             </div>
                             <div class=\"info-box_text\">
                                 <div class=\"icon\"><img src=\"{{ \x27assets/img/icon/location-dot.svg\x27|theme }}\" alt=\"img\"></div>
                                 <div class=\"details\">
-                                    <p>789 Inner Lane, Holy park, California, USA</p>
+                                    <p>Grand-Bassam, Mockeyville, Carrefour Femme Peulh 2</p>
                                 </div>
                             </div>
                         </div>
@@ -331,7 +346,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
                 </div>
                 <div class=\"col-md-6 col-xl-auto\">
                     <div class=\"widget footer-widget\">
-                        <h3 class=\"widget_title\">Publications Instagram</h3>
+                        <h3 class=\"widget_title\">Suivez-nous sur Facebook</h3>
                         <div class=\"sidebar-gallery\">
                             <div class=\"gallery-thumb\">
                                 <img src=\"{{\x27assets/img/widget/gallery_1_1.jpg\x27|theme }}\" alt=\"Galerie Image\">
@@ -367,7 +382,7 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
         <div class=\"container\">
             <div class=\"row justify-content-between align-items-center\">
                 <div class=\"col-md-6\">
-                    <p class=\"copyright-text\">Copyright 2024 <a href=\"#\">Life Voyage</a>. Tous droits réservés.</p>
+                    <p class=\"copyright-text\">Copyright 2026 <a href=\"#\">Life Voyages &amp; Tourisme</a>. Tous droits réservés.</p>
                 </div>
                 <div class=\"col-md-6 text-end d-none d-md-block\">
                     <div class=\"footer-card\">
@@ -395,14 +410,14 @@ class __TwigTemplate_77902d2ec821280e67035afc8212200f extends Template
     public function checkSecurity()
     {
         static $tags = [];
-        static $filters = ["theme" => 14];
+        static $filters = ["theme" => 13, "page" => 43];
         static $functions = [];
         static $tests = [];
 
         try {
             $this->sandbox->checkSecurity(
                 [],
-                [0 => "theme"],
+                [0 => "theme", 1 => "page"],
                 [],
                 [],
                 $this->source
